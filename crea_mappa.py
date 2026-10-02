@@ -16,12 +16,14 @@ COLORI = {
 }
 SPESSORE = 4
 OPACITA = 0.55
+ZOOM = 16
 
-# Ritaglia la linea sul tratto dove OpenStreetMap mappa davvero la sosta,
-# ma solo se il numero di posti ufficiali conferma quel tratto: due fonti
-# indipendenti devono essere compatibili. Se non concordano la via resta
-# intera, perche' la zona appartiene alla via intera e non si inventa nulla.
-RITAGLIA = True
+# Ritaglio sperimentale: accorcia la via sul tratto dove OpenStreetMap
+# mappa la sosta. Disattivato perche' sul campo rende peggio la mappa:
+# la zona appartiene alla via intera e i tratti OSM sono incompleti, quindi
+# tagliare nasconde metri di sosta che esistono davvero. Con False la mappa
+# torna a colorare la via per tutta la sua lunghezza.
+RITAGLIA = False
 RAGGIO_SOSTA = 20.0
 DENSITA_POSTI = 0.2      # posti per metro, densita' tipica di sosta laterale
 BANDA = (0.4, 2.5)       # tolleranza: il tratto OSM puo' valere da 0,4x a 2,5x la lunghezza attesa
@@ -299,7 +301,7 @@ def main():
             per_nome.setdefault(n, []).append(g)
 
     mappa = folium.Map(
-        location=[45.5470, 11.5460], zoom_start=15,
+        location=[45.5470, 11.5460], zoom_start=ZOOM,
         tiles="OpenStreetMap",
     )
 
@@ -314,27 +316,31 @@ def main():
             continue
         vie_disegnate = [g for g in geoms if len(g) >= 2]
 
-        # lunghezza che OSM dice effettivamente occupata da sosta
-        tratti_osm = []
-        for g in vie_disegnate:
-            coords = [(p["lat"], p["lon"]) for p in g if p]
-            tratti, frazione = ritaglia(coords, soste, RAGGIO_SOSTA)
-            tratti_osm.append((coords, tratti, frazione))
-        coperta = 0.0
-        for coords, tratti, frazione in tratti_osm:
-            if frazione >= 0.90:
-                coperta += lunghezza_poly(coords)
-            elif 0 < frazione < 0.90:
-                coperta += sum(lunghezza_poly(t) for t in tratti)
-
-        # la geometria OSM e' accettata solo se i posti ufficiali la confermano
         accettato = False
-        try:
-            attesa = int(posti.get((zona, via), 0)) / DENSITA_POSTI
-        except ValueError:
-            attesa = 0.0
-        if coperta > 0 and BANDA[0] * attesa <= coperta <= BANDA[1] * attesa:
-            accettato = True
+        coperta = 0.0
+        tratti_osm = []
+        if soste:
+            # lunghezza che OSM dice effettivamente occupata da sosta
+            for g in vie_disegnate:
+                coords = [(p["lat"], p["lon"]) for p in g if p]
+                tratti, frazione = ritaglia(coords, soste, RAGGIO_SOSTA)
+                tratti_osm.append((coords, tratti, frazione))
+            for coords, tratti, frazione in tratti_osm:
+                if frazione >= 0.90:
+                    coperta += lunghezza_poly(coords)
+                elif 0 < frazione < 0.90:
+                    coperta += sum(lunghezza_poly(t) for t in tratti)
+
+            # la geometria OSM e' accettata solo se i posti ufficiali la confermano
+            try:
+                attesa = int(posti.get((zona, via), 0)) / DENSITA_POSTI
+            except ValueError:
+                attesa = 0.0
+            if coperta > 0 and BANDA[0] * attesa <= coperta <= BANDA[1] * attesa:
+                accettato = True
+        else:
+            for g in vie_disegnate:
+                tratti_osm.append(([(p["lat"], p["lon"]) for p in g if p], None, 0.0))
 
         nota = ""
         if accettato:
@@ -378,12 +384,19 @@ def main():
             f'margin-right:6px;"></span>'
             f'Zona {zona}<br>'
         )
-    leggenda_html += (
-        f'<div style="margin-top:6px;color:#666;font-size:12px;max-width:190px;">'
-        f'Il tratto colorato e\' la zona della via. Quando la sosta e\' '
-        f'mappata a OpenStreetMap la linea copre solo i tratti effettivi.</div>'
-        f'</div>'
-    )
+    if RITAGLIA:
+        leggenda_html += (
+            f'<div style="margin-top:6px;color:#666;font-size:12px;max-width:190px;">'
+            f'La linea copre solo i tratti dove la sosta e\' documentata '
+            f'in OpenStreetMap.</div>'
+        )
+    else:
+        leggenda_html += (
+            f'<div style="margin-top:6px;color:#666;font-size:12px;max-width:190px;">'
+            f'Il colore indica la zona di sosta della via, per tutta la sua '
+            f'lunghezza. Il numero nel riquadro e\' il totale dei posti.</div>'
+        )
+    leggenda_html += "</div>"
     mappa.get_root().html.add_child(folium.Element(leggenda_html))
 
     mappa.save("mappa.html")
