@@ -308,6 +308,7 @@ def main():
     non_trovate = []
     ritagliate = []
     scartate = []
+    esporta = []
     for zona, via in vie:
         geoms = per_nome.get(nome_osm(via), [])
         if not geoms:
@@ -369,6 +370,7 @@ def main():
                              + (f" - {n_posti} posti" if n_posti != "" else "")
                              + nota),
                 ).add_to(mappa)
+                esporta.append((zona, via, t, n_posti))
         print(f"[{zona}] OK    {via}")
 
     leggenda_html = """
@@ -401,6 +403,7 @@ def main():
 
     mappa.save("mappa.html")
     print(f"\nMappa salvata in mappa.html ({len(vie) - len(non_trovate)}/{len(vie)} vie)")
+    esporta_kml_gpx(esporta)
     print(f"Ritagliate su tratto confermato dai posti ({len(ritagliate)}): "
           + ", ".join(ritagliate))
     if scartate:
@@ -410,6 +413,62 @@ def main():
         print("\nVie NON trovate in OSM (da sistemare):")
         for zona, via in non_trovate:
             print(f"  [zona {zona}] {via}")
+
+
+def esporta_kml_gpx(tratti):
+    """Salva gli stessi tratti della mappa in KML e GPX.
+
+    Il KML si carica su Google My Maps e mantiene i colori per zona;
+    il GPX serve su OsmAnd e Organic Maps. Non servono librerie
+    esterne: entrambi i formati sono XML scritto a mano.
+    """
+    from xml.sax.saxutils import escape
+
+    def kml_colore(hexcolore):
+        # KML vuole aabbggrr, quindi RGB rovesciato
+        r, g, b = (hexcolore[i:i + 2] for i in (1, 3, 5))
+        return f"ff{b}{g}{r}"
+
+    stili = "".join(
+        f'<Style id="zona{z}"><LineStyle>'
+        f'<color>{kml_colore(c)}</color><width>5</width>'
+        f'</LineStyle></Style>'
+        for z, c in sorted(COLORI.items())
+    )
+
+    placemark = []
+    for zona, via, coords, n_posti in tratti:
+        punti = " ".join(f"{lon},{lat},0" for lat, lon in coords)
+        desc = f"Zona {zona}"
+        if n_posti != "":
+            desc += f" - {n_posti} posti"
+        placemark.append(
+            f'<Placemark><name>{escape(via)}</name>'
+            f'<description>{escape(desc)}</description>'
+            f'<styleUrl>#zona{zona}</styleUrl>'
+            f'<LineString><tessellate>1</tessellate>'
+            f'<coordinates>{punti}</coordinates></LineString></Placemark>'
+        )
+
+    with open("zone_sosta.kml", "w", encoding="utf-8") as f:
+        f.write('<?xml version="1.0" encoding="UTF-8"?>\n'
+                '<kml xmlns="http://www.opengis.net/kml/2.2"><Document>'
+                '<name>Zone di sosta Vicenza</name>'
+                + stili + "".join(placemark) + '</Document></kml>\n')
+
+    with open("zone_sosta.gpx", "w", encoding="utf-8") as f:
+        f.write('<?xml version="1.0" encoding="UTF-8"?>\n'
+                '<gpx version="1.1" creator="crea_mappa.py" '
+                'xmlns="http://www.topografix.com/GPX/1/1">\n')
+        for zona, via, coords, n_posti in tratti:
+            f.write(f'  <trk><name>{escape(f"Zona {zona} - {via}")}</name>'
+                    '<trkseg>\n')
+            for lat, lon in coords:
+                f.write(f'    <trkpt lat="{lat}" lon="{lon}"/>\n')
+            f.write('  </trkseg></trk>\n')
+        f.write('</gpx>\n')
+
+    print(f"Esportati {len(tratti)} tratti in zone_sosta.kml e zone_sosta.gpx")
 
 
 if __name__ == "__main__":

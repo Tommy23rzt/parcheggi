@@ -1,0 +1,1885 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="crea_mappa.py" xmlns="http://www.topografix.com/GPX/1/1">
+  <trk><name>Zona 1 - Via Carlo Cattaneo</name><trkseg>
+    <trkpt lat="45.5465652" lon="11.5378474"/>
+    <trkpt lat="45.546538" lon="11.5373463"/>
+    <trkpt lat="45.5465043" lon="11.536727"/>
+    <trkpt lat="45.5464748" lon="11.5361102"/>
+    <trkpt lat="45.5464682" lon="11.5359817"/>
+    <trkpt lat="45.5464353" lon="11.5352883"/>
+    <trkpt lat="45.5464414" lon="11.5351061"/>
+    <trkpt lat="45.5464761" lon="11.5349656"/>
+    <trkpt lat="45.5465066" lon="11.5348926"/>
+    <trkpt lat="45.5465501" lon="11.534798"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Via Carlo Cattaneo</name><trkseg>
+    <trkpt lat="45.5463881" lon="11.5347968"/>
+    <trkpt lat="45.5463864" lon="11.5347071"/>
+    <trkpt lat="45.5463812" lon="11.5346132"/>
+    <trkpt lat="45.5463257" lon="11.5336494"/>
+    <trkpt lat="45.5463222" lon="11.5335573"/>
+    <trkpt lat="45.5462994" lon="11.5333633"/>
+    <trkpt lat="45.5462374" lon="11.5331938"/>
+    <trkpt lat="45.5461603" lon="11.5330213"/>
+    <trkpt lat="45.5461345" lon="11.5329457"/>
+    <trkpt lat="45.5460889" lon="11.5327377"/>
+    <trkpt lat="45.546078" lon="11.5326173"/>
+    <trkpt lat="45.5460671" lon="11.5321486"/>
+    <trkpt lat="45.5460576" lon="11.5318137"/>
+    <trkpt lat="45.546043" lon="11.5310506"/>
+    <trkpt lat="45.5460387" lon="11.5310097"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Contrà Mure Rocchetta</name><trkseg>
+    <trkpt lat="45.5468539" lon="11.5361092"/>
+    <trkpt lat="45.5469227" lon="11.5378082"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Contrà Mure San Rocco</name><trkseg>
+    <trkpt lat="45.5468539" lon="11.5361092"/>
+    <trkpt lat="45.5468859" lon="11.5360541"/>
+    <trkpt lat="45.546931" lon="11.5360315"/>
+    <trkpt lat="45.5474761" lon="11.5360966"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Contrà Mure San Rocco</name><trkseg>
+    <trkpt lat="45.5495582" lon="11.5364469"/>
+    <trkpt lat="45.5496219" lon="11.5364557"/>
+    <trkpt lat="45.5505088" lon="11.5365782"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Contrà Mure San Rocco</name><trkseg>
+    <trkpt lat="45.5474761" lon="11.5360966"/>
+    <trkpt lat="45.5475576" lon="11.5361208"/>
+    <trkpt lat="45.5476189" lon="11.536139"/>
+    <trkpt lat="45.5484775" lon="11.5362808"/>
+    <trkpt lat="45.5485429" lon="11.5362948"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Contrà Mure San Rocco</name><trkseg>
+    <trkpt lat="45.5495582" lon="11.5364469"/>
+    <trkpt lat="45.5486412" lon="11.5363095"/>
+    <trkpt lat="45.5485429" lon="11.5362948"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Contrà S. Maria Nova</name><trkseg>
+    <trkpt lat="45.5485429" lon="11.5362948"/>
+    <trkpt lat="45.5485478" lon="11.5364766"/>
+    <trkpt lat="45.548576" lon="11.5373369"/>
+    <trkpt lat="45.5485798" lon="11.5376579"/>
+    <trkpt lat="45.5485818" lon="11.5378307"/>
+    <trkpt lat="45.5485892" lon="11.5380736"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Contrà S. Maria Nova</name><trkseg>
+    <trkpt lat="45.5485892" lon="11.5380736"/>
+    <trkpt lat="45.5485933" lon="11.5382501"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Contrà S.Rocco</name><trkseg>
+    <trkpt lat="45.5495374" lon="11.5385037"/>
+    <trkpt lat="45.5495382" lon="11.5384461"/>
+    <trkpt lat="45.5495427" lon="11.5381324"/>
+    <trkpt lat="45.5495518" lon="11.5374104"/>
+    <trkpt lat="45.5495582" lon="11.5364469"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Contrà Busato</name><trkseg>
+    <trkpt lat="45.5507129" lon="11.5392678"/>
+    <trkpt lat="45.5506874" lon="11.5392351"/>
+    <trkpt lat="45.55055" lon="11.5390589"/>
+    <trkpt lat="45.5502851" lon="11.5387882"/>
+    <trkpt lat="45.5501041" lon="11.5386621"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Contrà Busato</name><trkseg>
+    <trkpt lat="45.5501041" lon="11.5386621"/>
+    <trkpt lat="45.5496119" lon="11.5385245"/>
+    <trkpt lat="45.5495374" lon="11.5385037"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Contrà Borghetto</name><trkseg>
+    <trkpt lat="45.5512323" lon="11.5385685"/>
+    <trkpt lat="45.5512558" lon="11.5386185"/>
+    <trkpt lat="45.5512971" lon="11.5387065"/>
+    <trkpt lat="45.5513303" lon="11.5387346"/>
+    <trkpt lat="45.5515973" lon="11.5386105"/>
+    <trkpt lat="45.5518159" lon="11.5384834"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Contrà Borghetto</name><trkseg>
+    <trkpt lat="45.5524569" lon="11.537285"/>
+    <trkpt lat="45.5523226" lon="11.5379632"/>
+    <trkpt lat="45.5522952" lon="11.5380868"/>
+    <trkpt lat="45.5522828" lon="11.5381201"/>
+    <trkpt lat="45.552251" lon="11.5381165"/>
+    <trkpt lat="45.5522096" lon="11.5381149"/>
+    <trkpt lat="45.5521765" lon="11.5381098"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Contrà Borghetto</name><trkseg>
+    <trkpt lat="45.5518159" lon="11.5384834"/>
+    <trkpt lat="45.5521043" lon="11.5382231"/>
+    <trkpt lat="45.5521495" lon="11.5381712"/>
+    <trkpt lat="45.5521765" lon="11.5381098"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Contrà Lodi</name><trkseg>
+    <trkpt lat="45.5485933" lon="11.5382501"/>
+    <trkpt lat="45.5486014" lon="11.5384092"/>
+    <trkpt lat="45.548635" lon="11.5390733"/>
+    <trkpt lat="45.5486931" lon="11.5402565"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Contra' Porta Nova</name><trkseg>
+    <trkpt lat="45.5485933" lon="11.5382501"/>
+    <trkpt lat="45.5485096" lon="11.5382299"/>
+    <trkpt lat="45.547671" lon="11.5380274"/>
+    <trkpt lat="45.5476268" lon="11.5380167"/>
+    <trkpt lat="45.547566" lon="11.538002"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Contra' Porta Nova</name><trkseg>
+    <trkpt lat="45.5469878" lon="11.5378253"/>
+    <trkpt lat="45.5469227" lon="11.5378082"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Contra' Porta Nova</name><trkseg>
+    <trkpt lat="45.547566" lon="11.538002"/>
+    <trkpt lat="45.5474748" lon="11.5379741"/>
+    <trkpt lat="45.547407" lon="11.5379534"/>
+    <trkpt lat="45.5469878" lon="11.5378253"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Corso Fogazzaro</name><trkseg>
+    <trkpt lat="45.5477935" lon="11.5433995"/>
+    <trkpt lat="45.5477098" lon="11.543525"/>
+    <trkpt lat="45.5475546" lon="11.5436977"/>
+    <trkpt lat="45.5474036" lon="11.5438281"/>
+    <trkpt lat="45.5472448" lon="11.5439459"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Corso Fogazzaro</name><trkseg>
+    <trkpt lat="45.5494079" lon="11.5414983"/>
+    <trkpt lat="45.54942" lon="11.541482"/>
+    <trkpt lat="45.5496699" lon="11.5411476"/>
+    <trkpt lat="45.5497803" lon="11.5408798"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Corso Fogazzaro</name><trkseg>
+    <trkpt lat="45.551171" lon="11.5391607"/>
+    <trkpt lat="45.5510634" lon="11.5392733"/>
+    <trkpt lat="45.5509537" lon="11.5390797"/>
+    <trkpt lat="45.5512215" lon="11.538676"/>
+    <trkpt lat="45.5512378" lon="11.5387053"/>
+    <trkpt lat="45.551252" lon="11.5387309"/>
+    <trkpt lat="45.5513097" lon="11.5387922"/>
+    <trkpt lat="45.5510928" lon="11.5389847"/>
+    <trkpt lat="45.551171" lon="11.5391607"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Corso Fogazzaro</name><trkseg>
+    <trkpt lat="45.5512215" lon="11.538676"/>
+    <trkpt lat="45.5512558" lon="11.5386185"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Corso Fogazzaro</name><trkseg>
+    <trkpt lat="45.5509537" lon="11.5390797"/>
+    <trkpt lat="45.5509443" lon="11.5390628"/>
+    <trkpt lat="45.5509146" lon="11.5390094"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Corso Fogazzaro</name><trkseg>
+    <trkpt lat="45.5480387" lon="11.5430673"/>
+    <trkpt lat="45.5479322" lon="11.5432043"/>
+    <trkpt lat="45.5477935" lon="11.5433995"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Corso Fogazzaro</name><trkseg>
+    <trkpt lat="45.5480387" lon="11.5430673"/>
+    <trkpt lat="45.5482624" lon="11.5428007"/>
+    <trkpt lat="45.5484795" lon="11.5425751"/>
+    <trkpt lat="45.5485594" lon="11.5424918"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Corso Fogazzaro</name><trkseg>
+    <trkpt lat="45.5507129" lon="11.5392678"/>
+    <trkpt lat="45.5504387" lon="11.5396186"/>
+    <trkpt lat="45.550103" lon="11.5401702"/>
+    <trkpt lat="45.5497803" lon="11.5408798"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Corso Fogazzaro</name><trkseg>
+    <trkpt lat="45.5512323" lon="11.5385685"/>
+    <trkpt lat="45.5511268" lon="11.5387352"/>
+    <trkpt lat="45.5509146" lon="11.5390094"/>
+    <trkpt lat="45.5507129" lon="11.5392678"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Corso Fogazzaro</name><trkseg>
+    <trkpt lat="45.5485594" lon="11.5424918"/>
+    <trkpt lat="45.5486393" lon="11.542416"/>
+    <trkpt lat="45.5486969" lon="11.542353"/>
+    <trkpt lat="45.5487151" lon="11.5423331"/>
+    <trkpt lat="45.5489002" lon="11.5421148"/>
+    <trkpt lat="45.5492111" lon="11.5417373"/>
+    <trkpt lat="45.5494079" lon="11.5414983"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Stradella Borghetto</name><trkseg>
+    <trkpt lat="45.5521765" lon="11.5381098"/>
+    <trkpt lat="45.5521841" lon="11.5380266"/>
+    <trkpt lat="45.5521662" lon="11.5379493"/>
+    <trkpt lat="45.5521019" lon="11.5378126"/>
+    <trkpt lat="45.5519648" lon="11.5375209"/>
+    <trkpt lat="45.5519387" lon="11.5374654"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Porta S.Croce</name><trkseg>
+    <trkpt lat="45.5519387" lon="11.5374654"/>
+    <trkpt lat="45.5516671" lon="11.5377197"/>
+    <trkpt lat="45.5514043" lon="11.5380762"/>
+    <trkpt lat="45.5513206" lon="11.5382324"/>
+    <trkpt lat="45.551281" lon="11.5383624"/>
+    <trkpt lat="45.5512323" lon="11.5385685"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Porta S.Croce</name><trkseg>
+    <trkpt lat="45.5524927" lon="11.5370484"/>
+    <trkpt lat="45.5526335" lon="11.5369888"/>
+    <trkpt lat="45.5526596" lon="11.5369734"/>
+    <trkpt lat="45.5526838" lon="11.5369476"/>
+    <trkpt lat="45.5527024" lon="11.5369158"/>
+    <trkpt lat="45.552717" lon="11.5368784"/>
+    <trkpt lat="45.5527531" lon="11.5367227"/>
+    <trkpt lat="45.5527648" lon="11.5366894"/>
+    <trkpt lat="45.5527775" lon="11.5366685"/>
+    <trkpt lat="45.5528" lon="11.5366534"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Porta S.Croce</name><trkseg>
+    <trkpt lat="45.5526894" lon="11.536637"/>
+    <trkpt lat="45.5526479" lon="11.536697"/>
+    <trkpt lat="45.5526073" lon="11.5367624"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Porta S.Croce</name><trkseg>
+    <trkpt lat="45.5519387" lon="11.5374654"/>
+    <trkpt lat="45.5519852" lon="11.5374356"/>
+    <trkpt lat="45.5522127" lon="11.5372256"/>
+    <trkpt lat="45.5523244" lon="11.5371196"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Porta S.Croce</name><trkseg>
+    <trkpt lat="45.552564" lon="11.5368281"/>
+    <trkpt lat="45.5524777" lon="11.5369681"/>
+    <trkpt lat="45.5524333" lon="11.537024"/>
+    <trkpt lat="45.5523244" lon="11.5371196"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Porta S.Croce</name><trkseg>
+    <trkpt lat="45.5526073" lon="11.5367624"/>
+    <trkpt lat="45.5525898" lon="11.5367863"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Porta S.Croce</name><trkseg>
+    <trkpt lat="45.5527007" lon="11.5366177"/>
+    <trkpt lat="45.5526894" lon="11.536637"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Porta S.Croce</name><trkseg>
+    <trkpt lat="45.5527779" lon="11.5363462"/>
+    <trkpt lat="45.552769" lon="11.5364284"/>
+    <trkpt lat="45.5527567" lon="11.5364883"/>
+    <trkpt lat="45.5527429" lon="11.5365386"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Porta S.Croce</name><trkseg>
+    <trkpt lat="45.5528" lon="11.5366534"/>
+    <trkpt lat="45.5528222" lon="11.5366474"/>
+    <trkpt lat="45.5528471" lon="11.5366451"/>
+    <trkpt lat="45.5528924" lon="11.5366468"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Porta S.Croce</name><trkseg>
+    <trkpt lat="45.5523244" lon="11.5371196"/>
+    <trkpt lat="45.5524927" lon="11.5370484"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Porta S.Croce</name><trkseg>
+    <trkpt lat="45.5525898" lon="11.5367863"/>
+    <trkpt lat="45.552564" lon="11.5368281"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Porta S.Croce</name><trkseg>
+    <trkpt lat="45.5527429" lon="11.5365386"/>
+    <trkpt lat="45.5527007" lon="11.5366177"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Mure Corpus Domini</name><trkseg>
+    <trkpt lat="45.5505088" lon="11.5365782"/>
+    <trkpt lat="45.5514726" lon="11.5367549"/>
+    <trkpt lat="45.5516813" lon="11.5369542"/>
+    <trkpt lat="45.5519228" lon="11.5374321"/>
+    <trkpt lat="45.5519387" lon="11.5374654"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Contrà Corpus Domini</name><trkseg>
+    <trkpt lat="45.5503265" lon="11.5374881"/>
+    <trkpt lat="45.5501051" lon="11.5374215"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Contrà Corpus Domini</name><trkseg>
+    <trkpt lat="45.5503158" lon="11.5375593"/>
+    <trkpt lat="45.5504718" lon="11.5376242"/>
+    <trkpt lat="45.5505405" lon="11.5373171"/>
+    <trkpt lat="45.550751" lon="11.5373903"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Contrà Corpus Domini</name><trkseg>
+    <trkpt lat="45.5505088" lon="11.5365782"/>
+    <trkpt lat="45.5503265" lon="11.5374881"/>
+    <trkpt lat="45.5503158" lon="11.5375593"/>
+    <trkpt lat="45.5501041" lon="11.5386621"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Contrà S.Ambrogio</name><trkseg>
+    <trkpt lat="45.5495374" lon="11.5385037"/>
+    <trkpt lat="45.5494712" lon="11.5384859"/>
+    <trkpt lat="45.5486978" lon="11.5382782"/>
+    <trkpt lat="45.5485933" lon="11.5382501"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Str.lla Soccorso Socc.to</name><trkseg>
+    <trkpt lat="45.5495374" lon="11.5385037"/>
+    <trkpt lat="45.549543" lon="11.5386003"/>
+    <trkpt lat="45.5495429" lon="11.5386415"/>
+    <trkpt lat="45.5495412" lon="11.539157"/>
+    <trkpt lat="45.5495466" lon="11.5394059"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Str.lla Soccorso Socc.to</name><trkseg>
+    <trkpt lat="45.5495466" lon="11.5394059"/>
+    <trkpt lat="45.5495625" lon="11.5398623"/>
+    <trkpt lat="45.5495705" lon="11.539925"/>
+    <trkpt lat="45.5495902" lon="11.5400048"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Str.lla Soccorso Socc.to</name><trkseg>
+    <trkpt lat="45.5495902" lon="11.5400048"/>
+    <trkpt lat="45.5495855" lon="11.5402407"/>
+    <trkpt lat="45.549577" lon="11.5403962"/>
+    <trkpt lat="45.54956" lon="11.5405393"/>
+    <trkpt lat="45.5495319" lon="11.5406566"/>
+  </trkseg></trk>
+  <trk><name>Zona 1 - Contrà Mure Porta Nova</name><trkseg>
+    <trkpt lat="45.5471268" lon="11.5400042"/>
+    <trkpt lat="45.5471056" lon="11.5398623"/>
+    <trkpt lat="45.5470859" lon="11.5397337"/>
+    <trkpt lat="45.5470671" lon="11.5395208"/>
+    <trkpt lat="45.5470671" lon="11.539517"/>
+    <trkpt lat="45.5470265" lon="11.5389386"/>
+    <trkpt lat="45.5469662" lon="11.538"/>
+    <trkpt lat="45.5469646" lon="11.5379176"/>
+    <trkpt lat="45.5469878" lon="11.5378253"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Via G.B. Vico</name><trkseg>
+    <trkpt lat="45.5533856" lon="11.537887"/>
+    <trkpt lat="45.5543424" lon="11.5390578"/>
+    <trkpt lat="45.554365" lon="11.5390854"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Via G.B. Vico</name><trkseg>
+    <trkpt lat="45.5565618" lon="11.5419011"/>
+    <trkpt lat="45.5565624" lon="11.5418663"/>
+    <trkpt lat="45.5565612" lon="11.5418394"/>
+    <trkpt lat="45.5565564" lon="11.5418188"/>
+    <trkpt lat="45.5564855" lon="11.541717"/>
+    <trkpt lat="45.5553993" lon="11.5403277"/>
+    <trkpt lat="45.5553181" lon="11.5402238"/>
+    <trkpt lat="45.5553028" lon="11.5402042"/>
+    <trkpt lat="45.5552732" lon="11.5401718"/>
+    <trkpt lat="45.5551456" lon="11.5400131"/>
+    <trkpt lat="45.5544934" lon="11.539236"/>
+    <trkpt lat="45.5544467" lon="11.5391804"/>
+    <trkpt lat="45.5543999" lon="11.539126"/>
+    <trkpt lat="45.5543923" lon="11.5391171"/>
+    <trkpt lat="45.554365" lon="11.5390854"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Via G.B. Vico</name><trkseg>
+    <trkpt lat="45.5565555" lon="11.5420197"/>
+    <trkpt lat="45.5565613" lon="11.5419495"/>
+    <trkpt lat="45.5565618" lon="11.5419011"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Via Galilei</name><trkseg>
+    <trkpt lat="45.5540216" lon="11.5396591"/>
+    <trkpt lat="45.5540628" lon="11.5397014"/>
+    <trkpt lat="45.5541016" lon="11.5397427"/>
+    <trkpt lat="45.5541484" lon="11.5398012"/>
+    <trkpt lat="45.5541797" lon="11.5398404"/>
+    <trkpt lat="45.5543896" lon="11.540103"/>
+    <trkpt lat="45.5545176" lon="11.5402632"/>
+    <trkpt lat="45.5547192" lon="11.5405154"/>
+    <trkpt lat="45.5547313" lon="11.5405305"/>
+    <trkpt lat="45.554744" lon="11.5405464"/>
+    <trkpt lat="45.5547843" lon="11.5405969"/>
+    <trkpt lat="45.5548974" lon="11.540739"/>
+    <trkpt lat="45.5549232" lon="11.5407714"/>
+    <trkpt lat="45.5549435" lon="11.5407909"/>
+    <trkpt lat="45.5549639" lon="11.540815"/>
+    <trkpt lat="45.5555836" lon="11.5415479"/>
+    <trkpt lat="45.555619" lon="11.5415987"/>
+    <trkpt lat="45.5556445" lon="11.5416705"/>
+    <trkpt lat="45.5556522" lon="11.5417039"/>
+    <trkpt lat="45.5556521" lon="11.5417363"/>
+    <trkpt lat="45.5556459" lon="11.5417898"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Via Galilei</name><trkseg>
+    <trkpt lat="45.5540216" lon="11.5396591"/>
+    <trkpt lat="45.5539902" lon="11.5396197"/>
+    <trkpt lat="45.5535159" lon="11.5390364"/>
+    <trkpt lat="45.5534995" lon="11.5390341"/>
+    <trkpt lat="45.5534506" lon="11.5390273"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Via Pacinotti</name><trkseg>
+    <trkpt lat="45.5535765" lon="11.5394312"/>
+    <trkpt lat="45.553554" lon="11.5394453"/>
+    <trkpt lat="45.5532616" lon="11.5396283"/>
+    <trkpt lat="45.5527833" lon="11.5393533"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Via Pagliarino</name><trkseg>
+    <trkpt lat="45.5554973" lon="11.5417588"/>
+    <trkpt lat="45.5547711" lon="11.5415791"/>
+    <trkpt lat="45.5546923" lon="11.5415473"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Via Pagliarino</name><trkseg>
+    <trkpt lat="45.5572356" lon="11.5419912"/>
+    <trkpt lat="45.5571607" lon="11.5420008"/>
+    <trkpt lat="45.5570281" lon="11.5420208"/>
+    <trkpt lat="45.5568732" lon="11.5420376"/>
+    <trkpt lat="45.5567447" lon="11.5420415"/>
+    <trkpt lat="45.5566657" lon="11.5420362"/>
+    <trkpt lat="45.5566137" lon="11.5420287"/>
+    <trkpt lat="45.5565555" lon="11.5420197"/>
+    <trkpt lat="45.5563989" lon="11.5419858"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Via Pagliarino</name><trkseg>
+    <trkpt lat="45.5572356" lon="11.5419912"/>
+    <trkpt lat="45.5573301" lon="11.5419807"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Via Pagliarino</name><trkseg>
+    <trkpt lat="45.5563989" lon="11.5419858"/>
+    <trkpt lat="45.5561515" lon="11.5419273"/>
+    <trkpt lat="45.5558693" lon="11.5418478"/>
+    <trkpt lat="45.5556459" lon="11.5417898"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Via Pagliarino</name><trkseg>
+    <trkpt lat="45.5556459" lon="11.5417898"/>
+    <trkpt lat="45.5554973" lon="11.5417588"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Via Pajello</name><trkseg>
+    <trkpt lat="45.5549232" lon="11.5407714"/>
+    <trkpt lat="45.5547346" lon="11.5410865"/>
+    <trkpt lat="45.5546428" lon="11.5412239"/>
+    <trkpt lat="45.5546016" lon="11.5412856"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Via Pajello</name><trkseg>
+    <trkpt lat="45.5549232" lon="11.5407714"/>
+    <trkpt lat="45.5549673" lon="11.5406959"/>
+    <trkpt lat="45.5550057" lon="11.5406424"/>
+    <trkpt lat="45.5552732" lon="11.5401718"/>
+    <trkpt lat="45.5554136" lon="11.5399147"/>
+    <trkpt lat="45.5554448" lon="11.5398679"/>
+    <trkpt lat="45.5554916" lon="11.5398106"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Via Pajello</name><trkseg>
+    <trkpt lat="45.5551456" lon="11.5400131"/>
+    <trkpt lat="45.555011" lon="11.5402174"/>
+    <trkpt lat="45.5544304" lon="11.5394712"/>
+    <trkpt lat="45.5543917" lon="11.539409"/>
+    <trkpt lat="45.5544655" lon="11.5392835"/>
+    <trkpt lat="45.5544934" lon="11.539236"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Via Pajello</name><trkseg>
+    <trkpt lat="45.5544304" lon="11.5394712"/>
+    <trkpt lat="45.5543381" lon="11.5396104"/>
+    <trkpt lat="45.5543311" lon="11.5396209"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Via Pajello</name><trkseg>
+    <trkpt lat="45.5549199" lon="11.5403678"/>
+    <trkpt lat="45.5549242" lon="11.5403608"/>
+    <trkpt lat="45.555011" lon="11.5402174"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Via Pajello</name><trkseg>
+    <trkpt lat="45.5541484" lon="11.5398012"/>
+    <trkpt lat="45.5541739" lon="11.5397598"/>
+    <trkpt lat="45.5542686" lon="11.5396058"/>
+    <trkpt lat="45.5543112" lon="11.5396531"/>
+    <trkpt lat="45.5543311" lon="11.5396209"/>
+    <trkpt lat="45.5549199" lon="11.5403678"/>
+    <trkpt lat="45.5548064" lon="11.5405595"/>
+    <trkpt lat="45.5547843" lon="11.5405969"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Via Sarpi</name><trkseg>
+    <trkpt lat="45.5537581" lon="11.5399906"/>
+    <trkpt lat="45.5536746" lon="11.5400576"/>
+    <trkpt lat="45.5532499" lon="11.5403664"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Via Sarpi</name><trkseg>
+    <trkpt lat="45.5545833" lon="11.5387328"/>
+    <trkpt lat="45.5545567" lon="11.5387835"/>
+    <trkpt lat="45.554365" lon="11.5390854"/>
+    <trkpt lat="45.5540657" lon="11.5395807"/>
+    <trkpt lat="45.5540216" lon="11.5396591"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Via Sarpi</name><trkseg>
+    <trkpt lat="45.5537581" lon="11.5399906"/>
+    <trkpt lat="45.5538314" lon="11.5399354"/>
+    <trkpt lat="45.5539785" lon="11.5397315"/>
+    <trkpt lat="45.553985" lon="11.5397206"/>
+    <trkpt lat="45.5540216" lon="11.5396591"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Via Sarpi</name><trkseg>
+    <trkpt lat="45.5532499" lon="11.5403664"/>
+    <trkpt lat="45.5524843" lon="11.5409659"/>
+    <trkpt lat="45.5524698" lon="11.5409693"/>
+    <trkpt lat="45.5524257" lon="11.5409797"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Via Tasso</name><trkseg>
+    <trkpt lat="45.5553848" lon="11.5433731"/>
+    <trkpt lat="45.5553913" lon="11.5432091"/>
+    <trkpt lat="45.5554133" lon="11.5429822"/>
+    <trkpt lat="45.5556121" lon="11.5420017"/>
+    <trkpt lat="45.5556358" lon="11.5418699"/>
+    <trkpt lat="45.5556375" lon="11.5418569"/>
+    <trkpt lat="45.5556459" lon="11.5417898"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Via Torricelli</name><trkseg>
+    <trkpt lat="45.5534506" lon="11.5390273"/>
+    <trkpt lat="45.553407" lon="11.5390219"/>
+    <trkpt lat="45.5533857" lon="11.5390192"/>
+    <trkpt lat="45.5528548" lon="11.5387454"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Via Volta</name><trkseg>
+    <trkpt lat="45.5531576" lon="11.5380934"/>
+    <trkpt lat="45.5531908" lon="11.5381993"/>
+    <trkpt lat="45.5534162" lon="11.5389175"/>
+    <trkpt lat="45.5534506" lon="11.5390273"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Via Volta</name><trkseg>
+    <trkpt lat="45.5537581" lon="11.5399906"/>
+    <trkpt lat="45.5537881" lon="11.540095"/>
+    <trkpt lat="45.5542087" lon="11.5413505"/>
+    <trkpt lat="45.5542437" lon="11.5414547"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Via Volta</name><trkseg>
+    <trkpt lat="45.5534506" lon="11.5390273"/>
+    <trkpt lat="45.5535765" lon="11.5394312"/>
+    <trkpt lat="45.5537289" lon="11.5399133"/>
+    <trkpt lat="45.5537581" lon="11.5399906"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Viale Bacchiglione</name><trkseg>
+    <trkpt lat="45.552432" lon="11.5397493"/>
+    <trkpt lat="45.552547" lon="11.5391172"/>
+    <trkpt lat="45.5526738" lon="11.5383636"/>
+    <trkpt lat="45.5527195" lon="11.538167"/>
+    <trkpt lat="45.5527662" lon="11.5381002"/>
+    <trkpt lat="45.5529558" lon="11.5381008"/>
+    <trkpt lat="45.5530054" lon="11.538101"/>
+    <trkpt lat="45.5531576" lon="11.5380934"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Viale Bacchiglione</name><trkseg>
+    <trkpt lat="45.5531576" lon="11.5380934"/>
+    <trkpt lat="45.5533856" lon="11.537887"/>
+    <trkpt lat="45.5535274" lon="11.5376153"/>
+    <trkpt lat="45.5535654" lon="11.537558"/>
+    <trkpt lat="45.5535938" lon="11.5375151"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Viale Rodolfi</name><trkseg>
+    <trkpt lat="45.5531458" lon="11.5516894"/>
+    <trkpt lat="45.5530911" lon="11.5518082"/>
+    <trkpt lat="45.5530767" lon="11.5518569"/>
+    <trkpt lat="45.5530483" lon="11.551955"/>
+    <trkpt lat="45.5530151" lon="11.5520536"/>
+    <trkpt lat="45.5530089" lon="11.5520898"/>
+    <trkpt lat="45.5530056" lon="11.5521254"/>
+    <trkpt lat="45.5530042" lon="11.5521964"/>
+    <trkpt lat="45.5529897" lon="11.5523119"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Viale Rodolfi</name><trkseg>
+    <trkpt lat="45.5573825" lon="11.5486881"/>
+    <trkpt lat="45.5572927" lon="11.5487343"/>
+    <trkpt lat="45.5571161" lon="11.5488058"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Viale Rodolfi</name><trkseg>
+    <trkpt lat="45.5571161" lon="11.5488058"/>
+    <trkpt lat="45.5572346" lon="11.5488314"/>
+    <trkpt lat="45.5574192" lon="11.5488887"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Viale Rodolfi</name><trkseg>
+    <trkpt lat="45.5564914" lon="11.5487604"/>
+    <trkpt lat="45.55651" lon="11.5487622"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Viale Rodolfi</name><trkseg>
+    <trkpt lat="45.5564914" lon="11.5487604"/>
+    <trkpt lat="45.5564018" lon="11.548719"/>
+    <trkpt lat="45.5562936" lon="11.5487008"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Viale Rodolfi</name><trkseg>
+    <trkpt lat="45.5557513" lon="11.5487054"/>
+    <trkpt lat="45.5558507" lon="11.5487222"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Viale Rodolfi</name><trkseg>
+    <trkpt lat="45.5531458" lon="11.5516894"/>
+    <trkpt lat="45.5533406" lon="11.551049"/>
+    <trkpt lat="45.5533996" lon="11.5508575"/>
+    <trkpt lat="45.5534688" lon="11.5506983"/>
+    <trkpt lat="45.5535357" lon="11.5505764"/>
+    <trkpt lat="45.5536136" lon="11.5504692"/>
+    <trkpt lat="45.5536804" lon="11.5503906"/>
+    <trkpt lat="45.5537557" lon="11.5503213"/>
+    <trkpt lat="45.5546177" lon="11.5495811"/>
+    <trkpt lat="45.5546885" lon="11.5495175"/>
+    <trkpt lat="45.5549831" lon="11.5492447"/>
+    <trkpt lat="45.5553077" lon="11.5489773"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Viale Rodolfi</name><trkseg>
+    <trkpt lat="45.55651" lon="11.5487622"/>
+    <trkpt lat="45.5567747" lon="11.5487831"/>
+    <trkpt lat="45.5568094" lon="11.5487865"/>
+    <trkpt lat="45.5570079" lon="11.5488007"/>
+    <trkpt lat="45.5571161" lon="11.5488058"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Viale Rodolfi</name><trkseg>
+    <trkpt lat="45.5558581" lon="11.5486639"/>
+    <trkpt lat="45.5557513" lon="11.5487054"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Viale Rodolfi</name><trkseg>
+    <trkpt lat="45.5560735" lon="11.5487522"/>
+    <trkpt lat="45.5561005" lon="11.5487543"/>
+    <trkpt lat="45.556235" lon="11.5487649"/>
+    <trkpt lat="45.5563328" lon="11.548774"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Viale Rodolfi</name><trkseg>
+    <trkpt lat="45.5562936" lon="11.5487008"/>
+    <trkpt lat="45.5562185" lon="11.5486997"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Viale Rodolfi</name><trkseg>
+    <trkpt lat="45.5563328" lon="11.548774"/>
+    <trkpt lat="45.5564008" lon="11.5487719"/>
+    <trkpt lat="45.5564914" lon="11.5487604"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Viale Rodolfi</name><trkseg>
+    <trkpt lat="45.5562185" lon="11.5486997"/>
+    <trkpt lat="45.5559591" lon="11.5486696"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Viale Rodolfi</name><trkseg>
+    <trkpt lat="45.5559591" lon="11.5486696"/>
+    <trkpt lat="45.5558581" lon="11.5486639"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Viale Rodolfi</name><trkseg>
+    <trkpt lat="45.5558507" lon="11.5487222"/>
+    <trkpt lat="45.5560735" lon="11.5487522"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Viale Rodolfi</name><trkseg>
+    <trkpt lat="45.5553077" lon="11.5489773"/>
+    <trkpt lat="45.555457" lon="11.5488714"/>
+    <trkpt lat="45.5556126" lon="11.5487638"/>
+    <trkpt lat="45.55571" lon="11.5487217"/>
+    <trkpt lat="45.5557513" lon="11.5487054"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Viale D'Alviano</name><trkseg>
+    <trkpt lat="45.5583457" lon="11.5439582"/>
+    <trkpt lat="45.5583465" lon="11.5438139"/>
+    <trkpt lat="45.5583357" lon="11.5436631"/>
+    <trkpt lat="45.5582952" lon="11.5434564"/>
+    <trkpt lat="45.5582709" lon="11.5433606"/>
+    <trkpt lat="45.5582409" lon="11.5432628"/>
+    <trkpt lat="45.5581991" lon="11.543154"/>
+    <trkpt lat="45.5581492" lon="11.5430454"/>
+    <trkpt lat="45.5580306" lon="11.5428299"/>
+    <trkpt lat="45.5574713" lon="11.5421481"/>
+    <trkpt lat="45.5573733" lon="11.5420369"/>
+    <trkpt lat="45.5573301" lon="11.5419807"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Viale D'Alviano</name><trkseg>
+    <trkpt lat="45.5580833" lon="11.5443259"/>
+    <trkpt lat="45.558037" lon="11.5443366"/>
+    <trkpt lat="45.557994" lon="11.5443637"/>
+    <trkpt lat="45.5579572" lon="11.5444055"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Viale D'Alviano</name><trkseg>
+    <trkpt lat="45.5531541" lon="11.5368411"/>
+    <trkpt lat="45.5529383" lon="11.5365648"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Viale D'Alviano</name><trkseg>
+    <trkpt lat="45.5573301" lon="11.5419807"/>
+    <trkpt lat="45.5571569" lon="11.541758"/>
+    <trkpt lat="45.5568518" lon="11.5413837"/>
+    <trkpt lat="45.5556497" lon="11.5398579"/>
+    <trkpt lat="45.5555585" lon="11.5397543"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Viale D'Alviano</name><trkseg>
+    <trkpt lat="45.553112" lon="11.5369337"/>
+    <trkpt lat="45.5532118" lon="11.5370448"/>
+    <trkpt lat="45.5533913" lon="11.5372667"/>
+    <trkpt lat="45.5535938" lon="11.5375151"/>
+    <trkpt lat="45.5542743" lon="11.5383407"/>
+    <trkpt lat="45.5545833" lon="11.5387328"/>
+    <trkpt lat="45.5553945" lon="11.5396843"/>
+    <trkpt lat="45.5554916" lon="11.5398106"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Viale D'Alviano</name><trkseg>
+    <trkpt lat="45.5528924" lon="11.5366468"/>
+    <trkpt lat="45.553112" lon="11.5369337"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Viale D'Alviano</name><trkseg>
+    <trkpt lat="45.5555585" lon="11.5397543"/>
+    <trkpt lat="45.5554521" lon="11.5395914"/>
+    <trkpt lat="45.5543148" lon="11.5382677"/>
+    <trkpt lat="45.5542201" lon="11.5381561"/>
+    <trkpt lat="45.5540693" lon="11.5379698"/>
+    <trkpt lat="45.5537178" lon="11.5375379"/>
+    <trkpt lat="45.5533512" lon="11.5370885"/>
+    <trkpt lat="45.5532577" lon="11.5369747"/>
+    <trkpt lat="45.5531541" lon="11.5368411"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Viale D'Alviano</name><trkseg>
+    <trkpt lat="45.5572356" lon="11.5419912"/>
+    <trkpt lat="45.5572869" lon="11.5420524"/>
+    <trkpt lat="45.5574258" lon="11.5422216"/>
+    <trkpt lat="45.5576847" lon="11.542542"/>
+    <trkpt lat="45.5577829" lon="11.5426661"/>
+    <trkpt lat="45.5579027" lon="11.5428223"/>
+    <trkpt lat="45.557969" lon="11.5429344"/>
+    <trkpt lat="45.5580114" lon="11.5430267"/>
+    <trkpt lat="45.5581088" lon="11.5432723"/>
+    <trkpt lat="45.5581639" lon="11.5434586"/>
+    <trkpt lat="45.5581841" lon="11.5435644"/>
+    <trkpt lat="45.5581989" lon="11.5436721"/>
+    <trkpt lat="45.5582066" lon="11.5437589"/>
+    <trkpt lat="45.5582084" lon="11.5438393"/>
+    <trkpt lat="45.5582066" lon="11.543891"/>
+    <trkpt lat="45.5582014" lon="11.5439481"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Viale D'Alviano</name><trkseg>
+    <trkpt lat="45.5554916" lon="11.5398106"/>
+    <trkpt lat="45.555572" lon="11.5399251"/>
+    <trkpt lat="45.556766" lon="11.5414046"/>
+    <trkpt lat="45.5571103" lon="11.5418312"/>
+    <trkpt lat="45.5572356" lon="11.5419912"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Viale D'Alviano</name><trkseg>
+    <trkpt lat="45.5580216" lon="11.5448324"/>
+    <trkpt lat="45.5580679" lon="11.544849"/>
+    <trkpt lat="45.5581157" lon="11.544848"/>
+    <trkpt lat="45.5581616" lon="11.5448295"/>
+    <trkpt lat="45.5582027" lon="11.5447947"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Viale D'Alviano</name><trkseg>
+    <trkpt lat="45.5582303" lon="11.5447564"/>
+    <trkpt lat="45.5582518" lon="11.5447104"/>
+    <trkpt lat="45.5582661" lon="11.5446591"/>
+    <trkpt lat="45.5582726" lon="11.5446046"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Viale D'Alviano</name><trkseg>
+    <trkpt lat="45.5582707" lon="11.544547"/>
+    <trkpt lat="45.5582586" lon="11.5444864"/>
+    <trkpt lat="45.5582367" lon="11.5444316"/>
+    <trkpt lat="45.5582063" lon="11.5443859"/>
+    <trkpt lat="45.5581691" lon="11.5443519"/>
+    <trkpt lat="45.5581273" lon="11.5443315"/>
+    <trkpt lat="45.5580833" lon="11.5443259"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Viale D'Alviano</name><trkseg>
+    <trkpt lat="45.5579208" lon="11.5446935"/>
+    <trkpt lat="45.5579455" lon="11.5447519"/>
+    <trkpt lat="45.5579799" lon="11.5447993"/>
+    <trkpt lat="45.5580216" lon="11.5448324"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Viale D'Alviano</name><trkseg>
+    <trkpt lat="45.5579572" lon="11.5444055"/>
+    <trkpt lat="45.5579257" lon="11.5444683"/>
+    <trkpt lat="45.5579083" lon="11.5445415"/>
+    <trkpt lat="45.5579066" lon="11.5446188"/>
+    <trkpt lat="45.5579208" lon="11.5446935"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Viale D'Alviano</name><trkseg>
+    <trkpt lat="45.5582726" lon="11.5446046"/>
+    <trkpt lat="45.5582728" lon="11.5445757"/>
+    <trkpt lat="45.5582707" lon="11.544547"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Viale D'Alviano</name><trkseg>
+    <trkpt lat="45.5582014" lon="11.5439481"/>
+    <trkpt lat="45.5581798" lon="11.5440916"/>
+    <trkpt lat="45.5581557" lon="11.5441964"/>
+    <trkpt lat="45.5581253" lon="11.5442733"/>
+    <trkpt lat="45.5580833" lon="11.5443259"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Viale D'Alviano</name><trkseg>
+    <trkpt lat="45.5582707" lon="11.544547"/>
+    <trkpt lat="45.5582996" lon="11.5443932"/>
+    <trkpt lat="45.558322" lon="11.5442441"/>
+    <trkpt lat="45.5583367" lon="11.5440974"/>
+    <trkpt lat="45.5583457" lon="11.5439582"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Viale D'Alviano</name><trkseg>
+    <trkpt lat="45.5582027" lon="11.5447947"/>
+    <trkpt lat="45.5582303" lon="11.5447564"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Contrà S. Bortolo</name><trkseg>
+    <trkpt lat="45.5553848" lon="11.5433731"/>
+    <trkpt lat="45.5555063" lon="11.5433123"/>
+    <trkpt lat="45.5557051" lon="11.5432478"/>
+    <trkpt lat="45.5558196" lon="11.5432399"/>
+    <trkpt lat="45.5559162" lon="11.5432513"/>
+    <trkpt lat="45.5561312" lon="11.5433412"/>
+    <trkpt lat="45.5562862" lon="11.5434991"/>
+    <trkpt lat="45.556631" lon="11.5439551"/>
+    <trkpt lat="45.5566821" lon="11.5440283"/>
+    <trkpt lat="45.5568982" lon="11.5441791"/>
+    <trkpt lat="45.5569507" lon="11.5442064"/>
+    <trkpt lat="45.5571896" lon="11.5442908"/>
+    <trkpt lat="45.5577412" lon="11.5444705"/>
+    <trkpt lat="45.5577592" lon="11.5444755"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Contrà S. Bortolo</name><trkseg>
+    <trkpt lat="45.5579572" lon="11.5444055"/>
+    <trkpt lat="45.5578869" lon="11.544448"/>
+    <trkpt lat="45.5578362" lon="11.5444623"/>
+    <trkpt lat="45.5577592" lon="11.5444755"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Contrà S. Bortolo</name><trkseg>
+    <trkpt lat="45.5577592" lon="11.5444755"/>
+    <trkpt lat="45.5578248" lon="11.5445341"/>
+    <trkpt lat="45.5578751" lon="11.5445991"/>
+    <trkpt lat="45.5579208" lon="11.5446935"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Contrà S. Francesco</name><trkseg>
+    <trkpt lat="45.5527157" lon="11.5430798"/>
+    <trkpt lat="45.5528604" lon="11.543058"/>
+    <trkpt lat="45.5530044" lon="11.5430192"/>
+    <trkpt lat="45.553131" lon="11.5429566"/>
+    <trkpt lat="45.5534657" lon="11.5426817"/>
+    <trkpt lat="45.5536158" lon="11.5426156"/>
+    <trkpt lat="45.553764" lon="11.5425912"/>
+    <trkpt lat="45.553833" lon="11.5425839"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Contrà S. Francesco</name><trkseg>
+    <trkpt lat="45.553985" lon="11.5425972"/>
+    <trkpt lat="45.5540836" lon="11.5426333"/>
+    <trkpt lat="45.554149" lon="11.5426617"/>
+    <trkpt lat="45.5545104" lon="11.5428601"/>
+    <trkpt lat="45.5546485" lon="11.5429681"/>
+    <trkpt lat="45.5548565" lon="11.543137"/>
+    <trkpt lat="45.5550025" lon="11.5432651"/>
+    <trkpt lat="45.5550647" lon="11.5433055"/>
+    <trkpt lat="45.5551316" lon="11.5433489"/>
+    <trkpt lat="45.5552532" lon="11.5433825"/>
+    <trkpt lat="45.5553848" lon="11.5433731"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Contrà S. Francesco</name><trkseg>
+    <trkpt lat="45.553833" lon="11.5425839"/>
+    <trkpt lat="45.5538994" lon="11.5425818"/>
+    <trkpt lat="45.553985" lon="11.5425972"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Contrà Forti San Francesco</name><trkseg>
+    <trkpt lat="45.5542868" lon="11.5416358"/>
+    <trkpt lat="45.554299" lon="11.5416977"/>
+    <trkpt lat="45.5543011" lon="11.5417472"/>
+    <trkpt lat="45.5542914" lon="11.5418114"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Contrà Forti San Francesco</name><trkseg>
+    <trkpt lat="45.554109" lon="11.5424225"/>
+    <trkpt lat="45.5540394" lon="11.5424816"/>
+    <trkpt lat="45.5540036" lon="11.542512"/>
+    <trkpt lat="45.5539939" lon="11.5425292"/>
+    <trkpt lat="45.553985" lon="11.5425972"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Contrà Forti San Francesco</name><trkseg>
+    <trkpt lat="45.5542914" lon="11.5418114"/>
+    <trkpt lat="45.554276" lon="11.5418861"/>
+    <trkpt lat="45.5542265" lon="11.5420943"/>
+    <trkpt lat="45.5541686" lon="11.5423134"/>
+    <trkpt lat="45.554109" lon="11.5424225"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Contrà della Misericordia</name><trkseg>
+    <trkpt lat="45.5527157" lon="11.5430798"/>
+    <trkpt lat="45.5526299" lon="11.5426681"/>
+    <trkpt lat="45.5524967" lon="11.5422048"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Contrà della Misericordia</name><trkseg>
+    <trkpt lat="45.5524206" lon="11.5398464"/>
+    <trkpt lat="45.552432" lon="11.5397493"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Contrà della Misericordia</name><trkseg>
+    <trkpt lat="45.5524323" lon="11.5415574"/>
+    <trkpt lat="45.5524297" lon="11.5415006"/>
+    <trkpt lat="45.5524223" lon="11.5411005"/>
+    <trkpt lat="45.5524257" lon="11.5409797"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Contrà della Misericordia</name><trkseg>
+    <trkpt lat="45.5524257" lon="11.5409797"/>
+    <trkpt lat="45.5524197" lon="11.5408228"/>
+    <trkpt lat="45.5524174" lon="11.5407909"/>
+    <trkpt lat="45.5523923" lon="11.5402184"/>
+    <trkpt lat="45.5524206" lon="11.5398464"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Contrà della Misericordia</name><trkseg>
+    <trkpt lat="45.5524967" lon="11.5422048"/>
+    <trkpt lat="45.5524323" lon="11.5415574"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Contrà S. Marco</name><trkseg>
+    <trkpt lat="45.551548" lon="11.5438159"/>
+    <trkpt lat="45.5518489" lon="11.5435431"/>
+    <trkpt lat="45.5519731" lon="11.5434354"/>
+    <trkpt lat="45.5522863" lon="11.543234"/>
+    <trkpt lat="45.5524833" lon="11.5431308"/>
+    <trkpt lat="45.5525918" lon="11.543107"/>
+    <trkpt lat="45.5527157" lon="11.5430798"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Contrà S. Marco</name><trkseg>
+    <trkpt lat="45.551872" lon="11.5443447"/>
+    <trkpt lat="45.551822" lon="11.5442735"/>
+    <trkpt lat="45.5517523" lon="11.5441798"/>
+    <trkpt lat="45.5516368" lon="11.5440329"/>
+    <trkpt lat="45.5515203" lon="11.5438411"/>
+  </trkseg></trk>
+  <trk><name>Zona 2 - Contrà S. Marco</name><trkseg>
+    <trkpt lat="45.5511415" lon="11.5441922"/>
+    <trkpt lat="45.5515203" lon="11.5438411"/>
+    <trkpt lat="45.551548" lon="11.5438159"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Area Legione Gallieno</name><trkseg>
+    <trkpt lat="45.5525348" lon="11.5539798"/>
+    <trkpt lat="45.552495" lon="11.5541974"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Area Legione Gallieno</name><trkseg>
+    <trkpt lat="45.5507404" lon="11.5562314"/>
+    <trkpt lat="45.5506323" lon="11.5562726"/>
+    <trkpt lat="45.5504127" lon="11.5563106"/>
+    <trkpt lat="45.5502237" lon="11.55628"/>
+    <trkpt lat="45.5499463" lon="11.5561993"/>
+    <trkpt lat="45.5498786" lon="11.5561798"/>
+    <trkpt lat="45.5495326" lon="11.5560766"/>
+    <trkpt lat="45.5494557" lon="11.5560819"/>
+    <trkpt lat="45.5493181" lon="11.55605"/>
+    <trkpt lat="45.5490532" lon="11.5559173"/>
+    <trkpt lat="45.5488654" lon="11.5558087"/>
+    <trkpt lat="45.5488096" lon="11.5557515"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Area Legione Gallieno</name><trkseg>
+    <trkpt lat="45.552495" lon="11.5541974"/>
+    <trkpt lat="45.5525747" lon="11.5540083"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Area Legione Gallieno</name><trkseg>
+    <trkpt lat="45.552495" lon="11.5541974"/>
+    <trkpt lat="45.5524754" lon="11.5542394"/>
+    <trkpt lat="45.5524498" lon="11.5542849"/>
+    <trkpt lat="45.5524244" lon="11.5543231"/>
+    <trkpt lat="45.5524039" lon="11.554354"/>
+    <trkpt lat="45.5519968" lon="11.554921"/>
+    <trkpt lat="45.5514937" lon="11.5556172"/>
+    <trkpt lat="45.5513761" lon="11.5557759"/>
+    <trkpt lat="45.551143" lon="11.5559907"/>
+    <trkpt lat="45.5507404" lon="11.5562314"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Area Legione Gallieno</name><trkseg>
+    <trkpt lat="45.5525747" lon="11.5540083"/>
+    <trkpt lat="45.5526175" lon="11.5539208"/>
+    <trkpt lat="45.552624" lon="11.5539111"/>
+    <trkpt lat="45.5526513" lon="11.5538705"/>
+    <trkpt lat="45.5526922" lon="11.5538375"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Area Legione Gallieno</name><trkseg>
+    <trkpt lat="45.5525841" lon="11.5537664"/>
+    <trkpt lat="45.5525348" lon="11.5539798"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Contrà Mure S. Domenico</name><trkseg>
+    <trkpt lat="45.5507252" lon="11.5556464"/>
+    <trkpt lat="45.5508505" lon="11.5555777"/>
+    <trkpt lat="45.551032" lon="11.555407"/>
+    <trkpt lat="45.5515017" lon="11.5547424"/>
+    <trkpt lat="45.5516048" lon="11.5546695"/>
+    <trkpt lat="45.551891" lon="11.5542269"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Contrà S.Domenico</name><trkseg>
+    <trkpt lat="45.5503702" lon="11.5556055"/>
+    <trkpt lat="45.5505971" lon="11.5556386"/>
+    <trkpt lat="45.5507252" lon="11.5556464"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Contrà S.Domenico</name><trkseg>
+    <trkpt lat="45.5507404" lon="11.5562314"/>
+    <trkpt lat="45.5507401" lon="11.5560834"/>
+    <trkpt lat="45.5507252" lon="11.5556464"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Contrà S.Domenico</name><trkseg>
+    <trkpt lat="45.5507252" lon="11.5556464"/>
+    <trkpt lat="45.550758" lon="11.5549926"/>
+    <trkpt lat="45.550763" lon="11.5548365"/>
+    <trkpt lat="45.5507632" lon="11.5546345"/>
+    <trkpt lat="45.5507413" lon="11.5545049"/>
+    <trkpt lat="45.5506114" lon="11.5541442"/>
+    <trkpt lat="45.5503911" lon="11.5535141"/>
+    <trkpt lat="45.5501716" lon="11.5527957"/>
+    <trkpt lat="45.5501361" lon="11.5525883"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Piazza Araceli</name><trkseg>
+    <trkpt lat="45.5526325" lon="11.549375"/>
+    <trkpt lat="45.5526694" lon="11.5493708"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Piazza Araceli</name><trkseg>
+    <trkpt lat="45.5529679" lon="11.5507596"/>
+    <trkpt lat="45.5529583" lon="11.5507111"/>
+    <trkpt lat="45.5529512" lon="11.5506314"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Piazza Araceli</name><trkseg>
+    <trkpt lat="45.5529512" lon="11.5506314"/>
+    <trkpt lat="45.5529639" lon="11.5504798"/>
+    <trkpt lat="45.5529528" lon="11.5503292"/>
+    <trkpt lat="45.5529288" lon="11.5501399"/>
+    <trkpt lat="45.5528936" lon="11.550049"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Piazza Araceli</name><trkseg>
+    <trkpt lat="45.5526694" lon="11.5493708"/>
+    <trkpt lat="45.5527432" lon="11.5493793"/>
+    <trkpt lat="45.552876" lon="11.5493841"/>
+    <trkpt lat="45.5529916" lon="11.5494243"/>
+    <trkpt lat="45.5530689" lon="11.5495207"/>
+    <trkpt lat="45.5530971" lon="11.5496391"/>
+    <trkpt lat="45.5530995" lon="11.5497562"/>
+    <trkpt lat="45.5530783" lon="11.5499704"/>
+    <trkpt lat="45.5530163" lon="11.5502064"/>
+    <trkpt lat="45.5529528" lon="11.5503292"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Piazza Araceli</name><trkseg>
+    <trkpt lat="45.5528936" lon="11.550049"/>
+    <trkpt lat="45.5526434" lon="11.5494032"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Piazza Araceli</name><trkseg>
+    <trkpt lat="45.5526434" lon="11.5494032"/>
+    <trkpt lat="45.5526325" lon="11.549375"/>
+    <trkpt lat="45.5525904" lon="11.5492614"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Via Legione Gallieno</name><trkseg>
+    <trkpt lat="45.5525348" lon="11.5539798"/>
+    <trkpt lat="45.552495" lon="11.5541974"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Via Legione Gallieno</name><trkseg>
+    <trkpt lat="45.5507404" lon="11.5562314"/>
+    <trkpt lat="45.5506323" lon="11.5562726"/>
+    <trkpt lat="45.5504127" lon="11.5563106"/>
+    <trkpt lat="45.5502237" lon="11.55628"/>
+    <trkpt lat="45.5499463" lon="11.5561993"/>
+    <trkpt lat="45.5498786" lon="11.5561798"/>
+    <trkpt lat="45.5495326" lon="11.5560766"/>
+    <trkpt lat="45.5494557" lon="11.5560819"/>
+    <trkpt lat="45.5493181" lon="11.55605"/>
+    <trkpt lat="45.5490532" lon="11.5559173"/>
+    <trkpt lat="45.5488654" lon="11.5558087"/>
+    <trkpt lat="45.5488096" lon="11.5557515"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Via Legione Gallieno</name><trkseg>
+    <trkpt lat="45.552495" lon="11.5541974"/>
+    <trkpt lat="45.5525747" lon="11.5540083"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Via Legione Gallieno</name><trkseg>
+    <trkpt lat="45.552495" lon="11.5541974"/>
+    <trkpt lat="45.5524754" lon="11.5542394"/>
+    <trkpt lat="45.5524498" lon="11.5542849"/>
+    <trkpt lat="45.5524244" lon="11.5543231"/>
+    <trkpt lat="45.5524039" lon="11.554354"/>
+    <trkpt lat="45.5519968" lon="11.554921"/>
+    <trkpt lat="45.5514937" lon="11.5556172"/>
+    <trkpt lat="45.5513761" lon="11.5557759"/>
+    <trkpt lat="45.551143" lon="11.5559907"/>
+    <trkpt lat="45.5507404" lon="11.5562314"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Via Legione Gallieno</name><trkseg>
+    <trkpt lat="45.5525747" lon="11.5540083"/>
+    <trkpt lat="45.5526175" lon="11.5539208"/>
+    <trkpt lat="45.552624" lon="11.5539111"/>
+    <trkpt lat="45.5526513" lon="11.5538705"/>
+    <trkpt lat="45.5526922" lon="11.5538375"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Via Legione Gallieno</name><trkseg>
+    <trkpt lat="45.5525841" lon="11.5537664"/>
+    <trkpt lat="45.5525348" lon="11.5539798"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Viale Margherita</name><trkseg>
+    <trkpt lat="45.5488096" lon="11.5557515"/>
+    <trkpt lat="45.54877" lon="11.5556976"/>
+    <trkpt lat="45.5486189" lon="11.5554916"/>
+    <trkpt lat="45.5482833" lon="11.5550043"/>
+    <trkpt lat="45.5479076" lon="11.554373"/>
+    <trkpt lat="45.5477891" lon="11.5542014"/>
+    <trkpt lat="45.5476613" lon="11.5540448"/>
+    <trkpt lat="45.5475721" lon="11.5539399"/>
+    <trkpt lat="45.5474807" lon="11.5538396"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Viale Margherita</name><trkseg>
+    <trkpt lat="45.5441156" lon="11.5531874"/>
+    <trkpt lat="45.5439698" lon="11.5531421"/>
+    <trkpt lat="45.5438547" lon="11.5531017"/>
+    <trkpt lat="45.5437809" lon="11.5530459"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Viale Margherita</name><trkseg>
+    <trkpt lat="45.5414617" lon="11.5529686"/>
+    <trkpt lat="45.541414" lon="11.5529366"/>
+    <trkpt lat="45.5413711" lon="11.552913"/>
+    <trkpt lat="45.5413237" lon="11.5528844"/>
+    <trkpt lat="45.541288" lon="11.5528372"/>
+    <trkpt lat="45.5412543" lon="11.5527637"/>
+    <trkpt lat="45.5412373" lon="11.5526802"/>
+    <trkpt lat="45.5412004" lon="11.5523187"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Viale Margherita</name><trkseg>
+    <trkpt lat="45.5422149" lon="11.5530314"/>
+    <trkpt lat="45.5423008" lon="11.5530419"/>
+    <trkpt lat="45.5424834" lon="11.553058"/>
+    <trkpt lat="45.5426972" lon="11.5530733"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Viale Margherita</name><trkseg>
+    <trkpt lat="45.5422149" lon="11.5530314"/>
+    <trkpt lat="45.542186" lon="11.5530283"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Viale Margherita</name><trkseg>
+    <trkpt lat="45.5418866" lon="11.5530029"/>
+    <trkpt lat="45.5417326" lon="11.5529867"/>
+    <trkpt lat="45.5416377" lon="11.5529766"/>
+    <trkpt lat="45.5414721" lon="11.5529686"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Viale Margherita</name><trkseg>
+    <trkpt lat="45.5474807" lon="11.5538396"/>
+    <trkpt lat="45.5474551" lon="11.5538083"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Viale Margherita</name><trkseg>
+    <trkpt lat="45.5457694" lon="11.5532906"/>
+    <trkpt lat="45.545734" lon="11.5532885"/>
+    <trkpt lat="45.5456834" lon="11.5532834"/>
+    <trkpt lat="45.5455165" lon="11.5532838"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Viale Margherita</name><trkseg>
+    <trkpt lat="45.5426314" lon="11.5526977"/>
+    <trkpt lat="45.5425641" lon="11.5527516"/>
+    <trkpt lat="45.5424485" lon="11.5528815"/>
+    <trkpt lat="45.5423947" lon="11.5529301"/>
+    <trkpt lat="45.5423584" lon="11.5529642"/>
+    <trkpt lat="45.5423109" lon="11.5529984"/>
+    <trkpt lat="45.5422723" lon="11.5530149"/>
+    <trkpt lat="45.5422149" lon="11.5530314"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Viale Margherita</name><trkseg>
+    <trkpt lat="45.5426972" lon="11.5530733"/>
+    <trkpt lat="45.5430862" lon="11.5531049"/>
+    <trkpt lat="45.5433189" lon="11.5531234"/>
+    <trkpt lat="45.5433437" lon="11.5531252"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Viale Margherita</name><trkseg>
+    <trkpt lat="45.5433437" lon="11.5531252"/>
+    <trkpt lat="45.5434368" lon="11.5530903"/>
+    <trkpt lat="45.5434762" lon="11.55306"/>
+    <trkpt lat="45.5434997" lon="11.5530142"/>
+    <trkpt lat="45.5435145" lon="11.5529621"/>
+    <trkpt lat="45.5435175" lon="11.5529196"/>
+    <trkpt lat="45.5435095" lon="11.5528585"/>
+    <trkpt lat="45.543501" lon="11.5527914"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Viale Margherita</name><trkseg>
+    <trkpt lat="45.543501" lon="11.5527914"/>
+    <trkpt lat="45.5433813" lon="11.5526672"/>
+    <trkpt lat="45.5432939" lon="11.5525693"/>
+    <trkpt lat="45.543238" lon="11.5525082"/>
+    <trkpt lat="45.5432052" lon="11.5524741"/>
+    <trkpt lat="45.5431587" lon="11.5524372"/>
+    <trkpt lat="45.5431169" lon="11.5524177"/>
+    <trkpt lat="45.5430882" lon="11.5524097"/>
+    <trkpt lat="45.5430582" lon="11.5524043"/>
+    <trkpt lat="45.5430145" lon="11.552407"/>
+    <trkpt lat="45.5429497" lon="11.5524358"/>
+    <trkpt lat="45.5426314" lon="11.5526977"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Viale Margherita</name><trkseg>
+    <trkpt lat="45.5433437" lon="11.5531252"/>
+    <trkpt lat="45.5434273" lon="11.5531526"/>
+    <trkpt lat="45.5436303" lon="11.5531737"/>
+    <trkpt lat="45.5436867" lon="11.5531764"/>
+    <trkpt lat="45.5439636" lon="11.5531895"/>
+    <trkpt lat="45.5441156" lon="11.5531874"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Viale Margherita</name><trkseg>
+    <trkpt lat="45.5426314" lon="11.5526977"/>
+    <trkpt lat="45.5426151" lon="11.5527303"/>
+    <trkpt lat="45.5425833" lon="11.5528105"/>
+    <trkpt lat="45.5425826" lon="11.5528875"/>
+    <trkpt lat="45.5425988" lon="11.5529595"/>
+    <trkpt lat="45.5426523" lon="11.5530373"/>
+    <trkpt lat="45.5426972" lon="11.5530733"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Viale Margherita</name><trkseg>
+    <trkpt lat="45.5449086" lon="11.5532345"/>
+    <trkpt lat="45.5445199" lon="11.5532086"/>
+    <trkpt lat="45.5441156" lon="11.5531874"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Viale Margherita</name><trkseg>
+    <trkpt lat="45.5413174" lon="11.5530508"/>
+    <trkpt lat="45.5414103" lon="11.5530068"/>
+    <trkpt lat="45.5414617" lon="11.5529686"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Viale Margherita</name><trkseg>
+    <trkpt lat="45.5449791" lon="11.5530196"/>
+    <trkpt lat="45.5449626" lon="11.5530522"/>
+    <trkpt lat="45.544933" lon="11.553087"/>
+    <trkpt lat="45.5449037" lon="11.5531107"/>
+    <trkpt lat="45.5448551" lon="11.5531165"/>
+    <trkpt lat="45.5445215" lon="11.553127"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Viale Margherita</name><trkseg>
+    <trkpt lat="45.5454359" lon="11.5532807"/>
+    <trkpt lat="45.5452298" lon="11.5532628"/>
+    <trkpt lat="45.545164" lon="11.5532542"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Viale Margherita</name><trkseg>
+    <trkpt lat="45.545164" lon="11.5532542"/>
+    <trkpt lat="45.5451457" lon="11.5532525"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Viale Margherita</name><trkseg>
+    <trkpt lat="45.542186" lon="11.5530283"/>
+    <trkpt lat="45.5419252" lon="11.5530051"/>
+    <trkpt lat="45.5418866" lon="11.5530029"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Viale Margherita</name><trkseg>
+    <trkpt lat="45.5469389" lon="11.5534513"/>
+    <trkpt lat="45.5467846" lon="11.5534075"/>
+    <trkpt lat="45.5466244" lon="11.5533776"/>
+    <trkpt lat="45.5464726" lon="11.5533625"/>
+    <trkpt lat="45.5463317" lon="11.5533485"/>
+    <trkpt lat="45.5460929" lon="11.5533331"/>
+    <trkpt lat="45.5460051" lon="11.5533245"/>
+    <trkpt lat="45.5458726" lon="11.5532968"/>
+    <trkpt lat="45.5457694" lon="11.5532906"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Viale Margherita</name><trkseg>
+    <trkpt lat="45.5437809" lon="11.5530459"/>
+    <trkpt lat="45.5437623" lon="11.553033"/>
+    <trkpt lat="45.5437199" lon="11.553002"/>
+    <trkpt lat="45.5436682" lon="11.5529643"/>
+    <trkpt lat="45.543501" lon="11.5527914"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Viale Margherita</name><trkseg>
+    <trkpt lat="45.5472973" lon="11.5536317"/>
+    <trkpt lat="45.5472479" lon="11.5535944"/>
+    <trkpt lat="45.5471657" lon="11.5535516"/>
+    <trkpt lat="45.5470518" lon="11.553496"/>
+    <trkpt lat="45.5469389" lon="11.5534513"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Viale Margherita</name><trkseg>
+    <trkpt lat="45.5455165" lon="11.5532838"/>
+    <trkpt lat="45.5455048" lon="11.5532835"/>
+    <trkpt lat="45.5454359" lon="11.5532807"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Viale Margherita</name><trkseg>
+    <trkpt lat="45.5451457" lon="11.5532525"/>
+    <trkpt lat="45.5449086" lon="11.5532345"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Viale Margherita</name><trkseg>
+    <trkpt lat="45.5450003" lon="11.5529635"/>
+    <trkpt lat="45.5449791" lon="11.5530196"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Viale Margherita</name><trkseg>
+    <trkpt lat="45.5445215" lon="11.553127"/>
+    <trkpt lat="45.5441428" lon="11.5530958"/>
+    <trkpt lat="45.543912" lon="11.5530715"/>
+    <trkpt lat="45.5438584" lon="11.5530661"/>
+    <trkpt lat="45.5437809" lon="11.5530459"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Viale Margherita</name><trkseg>
+    <trkpt lat="45.5414721" lon="11.5529686"/>
+    <trkpt lat="45.5414617" lon="11.5529686"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Viale Margherita</name><trkseg>
+    <trkpt lat="45.5474551" lon="11.5538083"/>
+    <trkpt lat="45.5474266" lon="11.5537595"/>
+    <trkpt lat="45.5473899" lon="11.5537025"/>
+    <trkpt lat="45.5472973" lon="11.5536317"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Contrà Porta Padova</name><trkseg>
+    <trkpt lat="45.5500859" lon="11.5527086"/>
+    <trkpt lat="45.5497992" lon="11.5533412"/>
+    <trkpt lat="45.5495393" lon="11.5539088"/>
+    <trkpt lat="45.5494172" lon="11.5542617"/>
+    <trkpt lat="45.5492856" lon="11.5546439"/>
+    <trkpt lat="45.5491703" lon="11.554927"/>
+    <trkpt lat="45.5491251" lon="11.5550355"/>
+    <trkpt lat="45.5489626" lon="11.5554"/>
+    <trkpt lat="45.5488395" lon="11.5556827"/>
+    <trkpt lat="45.5488096" lon="11.5557515"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Contrà Porta Padova</name><trkseg>
+    <trkpt lat="45.5490932" lon="11.5556871"/>
+    <trkpt lat="45.5491447" lon="11.5555297"/>
+    <trkpt lat="45.5489626" lon="11.5554"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Contrà Porta Padova</name><trkseg>
+    <trkpt lat="45.5495625" lon="11.5553504"/>
+    <trkpt lat="45.5491251" lon="11.5550355"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Contrà Porta S.Lucia</name><trkseg>
+    <trkpt lat="45.5503874" lon="11.5509416"/>
+    <trkpt lat="45.550406" lon="11.5509077"/>
+    <trkpt lat="45.5504264" lon="11.5508898"/>
+    <trkpt lat="45.5504549" lon="11.5508756"/>
+    <trkpt lat="45.5504815" lon="11.5508699"/>
+    <trkpt lat="45.5505363" lon="11.5508735"/>
+    <trkpt lat="45.5507102" lon="11.5509702"/>
+    <trkpt lat="45.551079" lon="11.551149"/>
+    <trkpt lat="45.551471" lon="11.5512862"/>
+    <trkpt lat="45.5518723" lon="11.5513647"/>
+    <trkpt lat="45.5520938" lon="11.5514246"/>
+    <trkpt lat="45.5523686" lon="11.5515418"/>
+    <trkpt lat="45.552762" lon="11.5516929"/>
+    <trkpt lat="45.5529052" lon="11.5517755"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Contrà Porta S.Lucia</name><trkseg>
+    <trkpt lat="45.5523596" lon="11.5519105"/>
+    <trkpt lat="45.5523263" lon="11.5518954"/>
+    <trkpt lat="45.5523486" lon="11.5516793"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Contrà Porta S.Lucia</name><trkseg>
+    <trkpt lat="45.5520494" lon="11.5518185"/>
+    <trkpt lat="45.5520452" lon="11.551798"/>
+    <trkpt lat="45.5520813" lon="11.5515125"/>
+    <trkpt lat="45.5520938" lon="11.5514246"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Contrà Porta S.Lucia</name><trkseg>
+    <trkpt lat="45.5530767" lon="11.5518569"/>
+    <trkpt lat="45.5530394" lon="11.5518357"/>
+    <trkpt lat="45.5530266" lon="11.5518292"/>
+    <trkpt lat="45.5529964" lon="11.5518145"/>
+    <trkpt lat="45.5529052" lon="11.5517755"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Contrà Porta S.Lucia</name><trkseg>
+    <trkpt lat="45.5523618" lon="11.5515932"/>
+    <trkpt lat="45.5523686" lon="11.5515418"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Contrà Porta S.Lucia</name><trkseg>
+    <trkpt lat="45.5523486" lon="11.5516793"/>
+    <trkpt lat="45.5523618" lon="11.5515932"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Contrà S. Pietro</name><trkseg>
+    <trkpt lat="45.5501804" lon="11.5508965"/>
+    <trkpt lat="45.5500188" lon="11.5510426"/>
+    <trkpt lat="45.5498924" lon="11.5511697"/>
+    <trkpt lat="45.5495428" lon="11.5515224"/>
+    <trkpt lat="45.5492807" lon="11.5517866"/>
+    <trkpt lat="45.5488973" lon="11.5520677"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Contrà S. Pietro</name><trkseg>
+    <trkpt lat="45.5488973" lon="11.5520677"/>
+    <trkpt lat="45.5487507" lon="11.5521809"/>
+    <trkpt lat="45.5486414" lon="11.5522675"/>
+    <trkpt lat="45.5485473" lon="11.5523669"/>
+    <trkpt lat="45.5483634" lon="11.5525465"/>
+    <trkpt lat="45.5482464" lon="11.552662"/>
+    <trkpt lat="45.5478756" lon="11.5530429"/>
+    <trkpt lat="45.5477476" lon="11.5531663"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Contrà S. Pietro</name><trkseg>
+    <trkpt lat="45.5477476" lon="11.5531663"/>
+    <trkpt lat="45.5476722" lon="11.5532422"/>
+    <trkpt lat="45.5473222" lon="11.5535946"/>
+    <trkpt lat="45.5472973" lon="11.5536317"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Piazza S. Pietro</name><trkseg>
+    <trkpt lat="45.5492853" lon="11.5532169"/>
+    <trkpt lat="45.5494043" lon="11.5529537"/>
+    <trkpt lat="45.5491668" lon="11.5527075"/>
+    <trkpt lat="45.5488973" lon="11.5520677"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Via IV Novembre</name><trkseg>
+    <trkpt lat="45.5525997" lon="11.5536"/>
+    <trkpt lat="45.5525585" lon="11.5535951"/>
+    <trkpt lat="45.552521" lon="11.5535805"/>
+    <trkpt lat="45.5524691" lon="11.5535487"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Via IV Novembre</name><trkseg>
+    <trkpt lat="45.5874476" lon="11.5111582"/>
+    <trkpt lat="45.5872951" lon="11.5112986"/>
+    <trkpt lat="45.5872121" lon="11.5113858"/>
+    <trkpt lat="45.5872096" lon="11.5114966"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Via IV Novembre</name><trkseg>
+    <trkpt lat="45.5517025" lon="11.5533411"/>
+    <trkpt lat="45.5515924" lon="11.552969"/>
+    <trkpt lat="45.5515197" lon="11.5527311"/>
+    <trkpt lat="45.5515462" lon="11.5526545"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Via IV Novembre</name><trkseg>
+    <trkpt lat="45.5503891" lon="11.5513474"/>
+    <trkpt lat="45.5503788" lon="11.551225"/>
+    <trkpt lat="45.5503714" lon="11.5511377"/>
+    <trkpt lat="45.5503683" lon="11.5510593"/>
+    <trkpt lat="45.5503742" lon="11.5509885"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Via IV Novembre</name><trkseg>
+    <trkpt lat="45.550285" lon="11.5510595"/>
+    <trkpt lat="45.5502984" lon="11.5511149"/>
+    <trkpt lat="45.5503386" lon="11.5512097"/>
+    <trkpt lat="45.5503676" lon="11.5512885"/>
+    <trkpt lat="45.5503724" lon="11.5513017"/>
+    <trkpt lat="45.5503891" lon="11.5513474"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Via IV Novembre</name><trkseg>
+    <trkpt lat="45.5524691" lon="11.5535487"/>
+    <trkpt lat="45.5525428" lon="11.5536601"/>
+    <trkpt lat="45.5525723" lon="11.5537097"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Via IV Novembre</name><trkseg>
+    <trkpt lat="45.5524691" lon="11.5535487"/>
+    <trkpt lat="45.5523946" lon="11.5534848"/>
+    <trkpt lat="45.5516517" lon="11.5527871"/>
+    <trkpt lat="45.5516084" lon="11.5527531"/>
+    <trkpt lat="45.5515462" lon="11.5526545"/>
+    <trkpt lat="45.5514917" lon="11.5526075"/>
+    <trkpt lat="45.5511187" lon="11.5522675"/>
+    <trkpt lat="45.5508675" lon="11.5520384"/>
+    <trkpt lat="45.5506856" lon="11.5518691"/>
+    <trkpt lat="45.550529" lon="11.5516758"/>
+    <trkpt lat="45.5504671" lon="11.5515625"/>
+    <trkpt lat="45.550419" lon="11.5514343"/>
+    <trkpt lat="45.5503891" lon="11.5513474"/>
+  </trkseg></trk>
+  <trk><name>Zona 3 - Contrà dei Torretti</name><trkseg>
+    <trkpt lat="45.5529512" lon="11.5506314"/>
+    <trkpt lat="45.5529076" lon="11.5506086"/>
+    <trkpt lat="45.5525175" lon="11.5504768"/>
+    <trkpt lat="45.5523721" lon="11.5504256"/>
+    <trkpt lat="45.5521694" lon="11.5504097"/>
+    <trkpt lat="45.5517243" lon="11.5503461"/>
+    <trkpt lat="45.5508536" lon="11.5500574"/>
+    <trkpt lat="45.5507326" lon="11.5500595"/>
+    <trkpt lat="45.5506575" lon="11.5500988"/>
+    <trkpt lat="45.5504446" lon="11.5505887"/>
+    <trkpt lat="45.5504071" lon="11.5506719"/>
+    <trkpt lat="45.5503763" lon="11.5507188"/>
+    <trkpt lat="45.5503418" lon="11.5507842"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Contrà Burci</name><trkseg>
+    <trkpt lat="45.5453156" lon="11.5509513"/>
+    <trkpt lat="45.5453008" lon="11.5509441"/>
+    <trkpt lat="45.5452739" lon="11.5509311"/>
+    <trkpt lat="45.5452497" lon="11.5509237"/>
+    <trkpt lat="45.5440605" lon="11.5511343"/>
+    <trkpt lat="45.5440103" lon="11.5510752"/>
+    <trkpt lat="45.5438778" lon="11.5498079"/>
+    <trkpt lat="45.5441108" lon="11.5494649"/>
+    <trkpt lat="45.5441244" lon="11.5493907"/>
+    <trkpt lat="45.5440601" lon="11.5491285"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Contrà Chinotto</name><trkseg>
+    <trkpt lat="45.5424512" lon="11.5500346"/>
+    <trkpt lat="45.5424581" lon="11.5499625"/>
+    <trkpt lat="45.5425172" lon="11.5493466"/>
+    <trkpt lat="45.5425259" lon="11.5491294"/>
+    <trkpt lat="45.5425207" lon="11.5490221"/>
+    <trkpt lat="45.5425062" lon="11.5488289"/>
+    <trkpt lat="45.5424992" lon="11.5486772"/>
+    <trkpt lat="45.5425071" lon="11.5485935"/>
+    <trkpt lat="45.5425189" lon="11.5485071"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Contrà S. Caterina</name><trkseg>
+    <trkpt lat="45.541414" lon="11.5529366"/>
+    <trkpt lat="45.5413927" lon="11.5528728"/>
+    <trkpt lat="45.5413903" lon="11.5528323"/>
+    <trkpt lat="45.5413935" lon="11.5527415"/>
+    <trkpt lat="45.5413987" lon="11.5526607"/>
+    <trkpt lat="45.5414063" lon="11.5526104"/>
+    <trkpt lat="45.5414306" lon="11.5525228"/>
+    <trkpt lat="45.5414445" lon="11.5524821"/>
+    <trkpt lat="45.5414628" lon="11.5524441"/>
+    <trkpt lat="45.5414982" lon="11.5523785"/>
+    <trkpt lat="45.5415233" lon="11.5522993"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Contrà S. Caterina</name><trkseg>
+    <trkpt lat="45.5415297" lon="11.5522883"/>
+    <trkpt lat="45.5416239" lon="11.5521249"/>
+    <trkpt lat="45.5416785" lon="11.5520159"/>
+    <trkpt lat="45.5417432" lon="11.5518656"/>
+    <trkpt lat="45.5418229" lon="11.5516131"/>
+    <trkpt lat="45.5419144" lon="11.5513728"/>
+    <trkpt lat="45.54195" lon="11.5512766"/>
+    <trkpt lat="45.5419771" lon="11.5512129"/>
+    <trkpt lat="45.5421021" lon="11.5509411"/>
+    <trkpt lat="45.5423694" lon="11.5502846"/>
+    <trkpt lat="45.5423987" lon="11.5501965"/>
+    <trkpt lat="45.5424328" lon="11.5501031"/>
+    <trkpt lat="45.5424512" lon="11.5500346"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Contrà S. Caterina</name><trkseg>
+    <trkpt lat="45.5415233" lon="11.5522993"/>
+    <trkpt lat="45.5414674" lon="11.5523346"/>
+    <trkpt lat="45.5414247" lon="11.5523959"/>
+    <trkpt lat="45.541388" lon="11.5524781"/>
+    <trkpt lat="45.5413648" lon="11.5525487"/>
+    <trkpt lat="45.5413446" lon="11.5526217"/>
+    <trkpt lat="45.541331" lon="11.5526637"/>
+    <trkpt lat="45.5413179" lon="11.5526813"/>
+    <trkpt lat="45.5413019" lon="11.552688"/>
+    <trkpt lat="45.5412802" lon="11.5526882"/>
+    <trkpt lat="45.5412698" lon="11.5526699"/>
+    <trkpt lat="45.5412469" lon="11.552447"/>
+    <trkpt lat="45.5412004" lon="11.5523187"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Contrà S. Caterina</name><trkseg>
+    <trkpt lat="45.5415233" lon="11.5522993"/>
+    <trkpt lat="45.5415297" lon="11.5522883"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Contrà S. Chiara</name><trkseg>
+    <trkpt lat="45.5436318" lon="11.549094"/>
+    <trkpt lat="45.5437391" lon="11.54914"/>
+    <trkpt lat="45.5438498" lon="11.5491508"/>
+    <trkpt lat="45.5440601" lon="11.5491285"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Contrà S. Silvestro</name><trkseg>
+    <trkpt lat="45.5435443" lon="11.5481175"/>
+    <trkpt lat="45.5434266" lon="11.5481713"/>
+    <trkpt lat="45.5433334" lon="11.5481922"/>
+    <trkpt lat="45.5432552" lon="11.5482066"/>
+    <trkpt lat="45.5429809" lon="11.5483147"/>
+    <trkpt lat="45.5426068" lon="11.5484705"/>
+    <trkpt lat="45.5425189" lon="11.5485071"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Contrà S. Silvestro</name><trkseg>
+    <trkpt lat="45.541186" lon="11.5477434"/>
+    <trkpt lat="45.5412224" lon="11.5477393"/>
+    <trkpt lat="45.5412712" lon="11.5477352"/>
+    <trkpt lat="45.5413284" lon="11.5477353"/>
+    <trkpt lat="45.541354" lon="11.5477381"/>
+    <trkpt lat="45.5414059" lon="11.5477528"/>
+    <trkpt lat="45.5414385" lon="11.5477744"/>
+    <trkpt lat="45.541462" lon="11.5478035"/>
+    <trkpt lat="45.5415177" lon="11.5479221"/>
+    <trkpt lat="45.5415884" lon="11.5481965"/>
+    <trkpt lat="45.541648" lon="11.5484319"/>
+    <trkpt lat="45.5416738" lon="11.5484873"/>
+    <trkpt lat="45.5417934" lon="11.548536"/>
+    <trkpt lat="45.5418927" lon="11.5485507"/>
+    <trkpt lat="45.5422797" lon="11.5485952"/>
+    <trkpt lat="45.5424317" lon="11.5485453"/>
+    <trkpt lat="45.5425189" lon="11.5485071"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Contrà S. Silvestro</name><trkseg>
+    <trkpt lat="45.5435998" lon="11.5480926"/>
+    <trkpt lat="45.5435443" lon="11.5481175"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Contrà S. Silvestro</name><trkseg>
+    <trkpt lat="45.5436629" lon="11.5480643"/>
+    <trkpt lat="45.5435998" lon="11.5480926"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Contrà S. Tomaso</name><trkseg>
+    <trkpt lat="45.5429903" lon="11.5495212"/>
+    <trkpt lat="45.5430495" lon="11.5494483"/>
+    <trkpt lat="45.5431341" lon="11.5493441"/>
+    <trkpt lat="45.5432489" lon="11.5492705"/>
+    <trkpt lat="45.5433682" lon="11.5492111"/>
+    <trkpt lat="45.5435121" lon="11.5491334"/>
+    <trkpt lat="45.5436318" lon="11.549094"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Contrà S. Tomaso</name><trkseg>
+    <trkpt lat="45.5424512" lon="11.5500346"/>
+    <trkpt lat="45.5425524" lon="11.5499836"/>
+    <trkpt lat="45.5426103" lon="11.5499452"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Contrà S. Tomaso</name><trkseg>
+    <trkpt lat="45.5426103" lon="11.5499452"/>
+    <trkpt lat="45.5426443" lon="11.5499226"/>
+    <trkpt lat="45.5428236" lon="11.5497264"/>
+    <trkpt lat="45.5429903" lon="11.5495212"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Contrà Valmerlara</name><trkseg>
+    <trkpt lat="45.5425189" lon="11.5485071"/>
+    <trkpt lat="45.5425379" lon="11.5483262"/>
+    <trkpt lat="45.5425558" lon="11.5480819"/>
+    <trkpt lat="45.5425812" lon="11.5478536"/>
+    <trkpt lat="45.542659" lon="11.5473527"/>
+    <trkpt lat="45.542666" lon="11.5472738"/>
+    <trkpt lat="45.542655" lon="11.5472386"/>
+    <trkpt lat="45.5426391" lon="11.5472245"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Stradella Fossetta</name><trkseg>
+    <trkpt lat="45.5431039" lon="11.5470467"/>
+    <trkpt lat="45.5432091" lon="11.5476209"/>
+    <trkpt lat="45.5433334" lon="11.5481922"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Viale X Giugno</name><trkseg>
+    <trkpt lat="45.5375852" lon="11.5489177"/>
+    <trkpt lat="45.5375044" lon="11.5488179"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Viale X Giugno</name><trkseg>
+    <trkpt lat="45.5346526" lon="11.544291"/>
+    <trkpt lat="45.5345175" lon="11.5441347"/>
+    <trkpt lat="45.5342339" lon="11.5438846"/>
+    <trkpt lat="45.5338579" lon="11.5436439"/>
+    <trkpt lat="45.5335922" lon="11.5435535"/>
+    <trkpt lat="45.5333315" lon="11.5434775"/>
+    <trkpt lat="45.5330335" lon="11.5434319"/>
+    <trkpt lat="45.5328341" lon="11.543439"/>
+    <trkpt lat="45.5325735" lon="11.5435016"/>
+    <trkpt lat="45.5324226" lon="11.5435644"/>
+    <trkpt lat="45.5322892" lon="11.5436611"/>
+    <trkpt lat="45.5319842" lon="11.5440377"/>
+    <trkpt lat="45.5316977" lon="11.5443736"/>
+    <trkpt lat="45.5314862" lon="11.5445923"/>
+    <trkpt lat="45.5314022" lon="11.5446992"/>
+    <trkpt lat="45.5313279" lon="11.5448345"/>
+    <trkpt lat="45.531184" lon="11.5451508"/>
+    <trkpt lat="45.5309771" lon="11.5455343"/>
+    <trkpt lat="45.5308248" lon="11.5457189"/>
+    <trkpt lat="45.5306837" lon="11.5458639"/>
+    <trkpt lat="45.530576" lon="11.5459504"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Viale X Giugno</name><trkseg>
+    <trkpt lat="45.5198129" lon="11.5464019"/>
+    <trkpt lat="45.51996" lon="11.546506"/>
+    <trkpt lat="45.520234" lon="11.546668"/>
+    <trkpt lat="45.520395" lon="11.546801"/>
+    <trkpt lat="45.5204931" lon="11.5468563"/>
+    <trkpt lat="45.52056" lon="11.546894"/>
+    <trkpt lat="45.520632" lon="11.546908"/>
+    <trkpt lat="45.520757" lon="11.546917"/>
+    <trkpt lat="45.520915" lon="11.546904"/>
+    <trkpt lat="45.52109" lon="11.546898"/>
+    <trkpt lat="45.521155" lon="11.546933"/>
+    <trkpt lat="45.521255" lon="11.547037"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Viale X Giugno</name><trkseg>
+    <trkpt lat="45.52455" lon="11.547074"/>
+    <trkpt lat="45.52467" lon="11.546946"/>
+    <trkpt lat="45.524731" lon="11.546794"/>
+    <trkpt lat="45.524812" lon="11.546724"/>
+    <trkpt lat="45.524932" lon="11.546605"/>
+    <trkpt lat="45.5252" lon="11.546362"/>
+    <trkpt lat="45.5253935" lon="11.5460783"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Viale X Giugno</name><trkseg>
+    <trkpt lat="45.5235647" lon="11.5450165"/>
+    <trkpt lat="45.5234509" lon="11.5449561"/>
+    <trkpt lat="45.5232857" lon="11.5448928"/>
+    <trkpt lat="45.5230914" lon="11.544888"/>
+    <trkpt lat="45.5229797" lon="11.5449426"/>
+    <trkpt lat="45.5228943" lon="11.5450373"/>
+    <trkpt lat="45.5227878" lon="11.5451904"/>
+    <trkpt lat="45.5227126" lon="11.5453108"/>
+    <trkpt lat="45.5226847" lon="11.5454271"/>
+    <trkpt lat="45.5227" lon="11.5454802"/>
+    <trkpt lat="45.5227247" lon="11.5455182"/>
+    <trkpt lat="45.5227568" lon="11.5455392"/>
+    <trkpt lat="45.5227855" lon="11.5455445"/>
+    <trkpt lat="45.5228455" lon="11.5454968"/>
+    <trkpt lat="45.5229615" lon="11.5453238"/>
+    <trkpt lat="45.5230269" lon="11.5452594"/>
+    <trkpt lat="45.5230603" lon="11.5452623"/>
+    <trkpt lat="45.5230917" lon="11.5452866"/>
+    <trkpt lat="45.5231162" lon="11.5453219"/>
+    <trkpt lat="45.5231291" lon="11.5453684"/>
+    <trkpt lat="45.5231286" lon="11.5454148"/>
+    <trkpt lat="45.5231096" lon="11.5454666"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Viale X Giugno</name><trkseg>
+    <trkpt lat="45.5408641" lon="11.5476896"/>
+    <trkpt lat="45.5408207" lon="11.5476563"/>
+    <trkpt lat="45.540769" lon="11.5476104"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Viale X Giugno</name><trkseg>
+    <trkpt lat="45.5151375" lon="11.5448725"/>
+    <trkpt lat="45.5148761" lon="11.5445714"/>
+    <trkpt lat="45.5147462" lon="11.5444196"/>
+    <trkpt lat="45.5146351" lon="11.5442168"/>
+    <trkpt lat="45.5145267" lon="11.5439481"/>
+    <trkpt lat="45.5143498" lon="11.5433944"/>
+    <trkpt lat="45.5142772" lon="11.5431929"/>
+    <trkpt lat="45.5142272" lon="11.5430824"/>
+    <trkpt lat="45.5141506" lon="11.5429708"/>
+    <trkpt lat="45.5139623" lon="11.5427372"/>
+    <trkpt lat="45.5136429" lon="11.5423361"/>
+    <trkpt lat="45.5134823" lon="11.5420754"/>
+    <trkpt lat="45.5134047" lon="11.5419227"/>
+    <trkpt lat="45.5132119" lon="11.5413789"/>
+    <trkpt lat="45.5130815" lon="11.5410041"/>
+    <trkpt lat="45.5129742" lon="11.5406882"/>
+    <trkpt lat="45.5128816" lon="11.5403787"/>
+    <trkpt lat="45.5128231" lon="11.5400619"/>
+    <trkpt lat="45.5127958" lon="11.5398772"/>
+    <trkpt lat="45.5127473" lon="11.5397028"/>
+    <trkpt lat="45.5126561" lon="11.5394952"/>
+    <trkpt lat="45.5125378" lon="11.5392268"/>
+    <trkpt lat="45.5123865" lon="11.5388614"/>
+    <trkpt lat="45.512316" lon="11.5386242"/>
+    <trkpt lat="45.5122356" lon="11.5380103"/>
+    <trkpt lat="45.51198" lon="11.5369743"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Viale X Giugno</name><trkseg>
+    <trkpt lat="45.541186" lon="11.5477434"/>
+    <trkpt lat="45.541189" lon="11.5477265"/>
+    <trkpt lat="45.5411894" lon="11.5477057"/>
+    <trkpt lat="45.5411965" lon="11.5473738"/>
+    <trkpt lat="45.5412032" lon="11.5472894"/>
+    <trkpt lat="45.5412136" lon="11.5472352"/>
+    <trkpt lat="45.5412852" lon="11.5470031"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Viale X Giugno</name><trkseg>
+    <trkpt lat="45.5401899" lon="11.5471711"/>
+    <trkpt lat="45.5400654" lon="11.5472448"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Viale X Giugno</name><trkseg>
+    <trkpt lat="45.5415835" lon="11.5462821"/>
+    <trkpt lat="45.5416182" lon="11.5461826"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Viale X Giugno</name><trkseg>
+    <trkpt lat="45.5417355" lon="11.5458724"/>
+    <trkpt lat="45.5417504" lon="11.5458109"/>
+    <trkpt lat="45.5417531" lon="11.5457289"/>
+    <trkpt lat="45.5417458" lon="11.5456651"/>
+    <trkpt lat="45.5417406" lon="11.5456384"/>
+    <trkpt lat="45.5417322" lon="11.5456138"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Viale X Giugno</name><trkseg>
+    <trkpt lat="45.5413532" lon="11.5463785"/>
+    <trkpt lat="45.5413808" lon="11.5464809"/>
+    <trkpt lat="45.5413921" lon="11.5465336"/>
+    <trkpt lat="45.5413961" lon="11.5465848"/>
+    <trkpt lat="45.5413956" lon="11.5466335"/>
+    <trkpt lat="45.5413901" lon="11.5466784"/>
+    <trkpt lat="45.5413539" lon="11.5468337"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Viale X Giugno</name><trkseg>
+    <trkpt lat="45.5231096" lon="11.5454666"/>
+    <trkpt lat="45.5230412" lon="11.5455817"/>
+    <trkpt lat="45.522322" lon="11.5468325"/>
+    <trkpt lat="45.5221153" lon="11.5470846"/>
+    <trkpt lat="45.5219784" lon="11.5471567"/>
+    <trkpt lat="45.5218473" lon="11.5472043"/>
+    <trkpt lat="45.5216672" lon="11.5471984"/>
+    <trkpt lat="45.521471" lon="11.547127"/>
+    <trkpt lat="45.521255" lon="11.547037"/>
+    <trkpt lat="45.521086" lon="11.5470071"/>
+    <trkpt lat="45.5208842" lon="11.5470307"/>
+    <trkpt lat="45.520608" lon="11.547105"/>
+    <trkpt lat="45.5204517" lon="11.5470858"/>
+    <trkpt lat="45.5203508" lon="11.5470683"/>
+    <trkpt lat="45.5202597" lon="11.5470381"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Viale X Giugno</name><trkseg>
+    <trkpt lat="45.5417128" lon="11.545936"/>
+    <trkpt lat="45.5417355" lon="11.5458724"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Viale X Giugno</name><trkseg>
+    <trkpt lat="45.5416182" lon="11.5461826"/>
+    <trkpt lat="45.5416756" lon="11.5460329"/>
+    <trkpt lat="45.5417128" lon="11.545936"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Viale X Giugno</name><trkseg>
+    <trkpt lat="45.540769" lon="11.5476104"/>
+    <trkpt lat="45.5401899" lon="11.5471711"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Viale X Giugno</name><trkseg>
+    <trkpt lat="45.5231286" lon="11.5454148"/>
+    <trkpt lat="45.5231691" lon="11.5454849"/>
+    <trkpt lat="45.5231717" lon="11.5455709"/>
+    <trkpt lat="45.5231318" lon="11.5456419"/>
+    <trkpt lat="45.523093" lon="11.5457276"/>
+    <trkpt lat="45.523061" lon="11.5458036"/>
+    <trkpt lat="45.523082" lon="11.5458926"/>
+    <trkpt lat="45.523125" lon="11.5459256"/>
+    <trkpt lat="45.52317" lon="11.5459276"/>
+    <trkpt lat="45.523308" lon="11.5458356"/>
+    <trkpt lat="45.523349" lon="11.5458176"/>
+    <trkpt lat="45.523389" lon="11.5458406"/>
+    <trkpt lat="45.523416" lon="11.5458756"/>
+    <trkpt lat="45.523411" lon="11.5459636"/>
+    <trkpt lat="45.52336" lon="11.5460636"/>
+    <trkpt lat="45.523242" lon="11.5462546"/>
+    <trkpt lat="45.523149" lon="11.5464166"/>
+    <trkpt lat="45.5231278" lon="11.5464912"/>
+    <trkpt lat="45.5231498" lon="11.5465251"/>
+    <trkpt lat="45.5231696" lon="11.5465555"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Viale X Giugno</name><trkseg>
+    <trkpt lat="45.5400654" lon="11.5472448"/>
+    <trkpt lat="45.5387778" lon="11.5480499"/>
+    <trkpt lat="45.5381812" lon="11.5484205"/>
+    <trkpt lat="45.5376096" lon="11.5488028"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Viale X Giugno</name><trkseg>
+    <trkpt lat="45.5353137" lon="11.5458834"/>
+    <trkpt lat="45.5352969" lon="11.5458426"/>
+    <trkpt lat="45.5352883" lon="11.5458018"/>
+    <trkpt lat="45.5352891" lon="11.5457124"/>
+    <trkpt lat="45.5353193" lon="11.5454936"/>
+    <trkpt lat="45.5353113" lon="11.5453952"/>
+    <trkpt lat="45.5353024" lon="11.5453421"/>
+    <trkpt lat="45.5352805" lon="11.5452614"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Viale X Giugno</name><trkseg>
+    <trkpt lat="45.5231696" lon="11.5465555"/>
+    <trkpt lat="45.5235881" lon="11.5465461"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Viale X Giugno</name><trkseg>
+    <trkpt lat="45.5235836" lon="11.5450272"/>
+    <trkpt lat="45.5235647" lon="11.5450165"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Viale X Giugno</name><trkseg>
+    <trkpt lat="45.5272226" lon="11.5463129"/>
+    <trkpt lat="45.5271861" lon="11.5463291"/>
+    <trkpt lat="45.5269249" lon="11.5464449"/>
+    <trkpt lat="45.5266892" lon="11.5465428"/>
+    <trkpt lat="45.52652" lon="11.5465852"/>
+    <trkpt lat="45.5262872" lon="11.5465636"/>
+    <trkpt lat="45.5261055" lon="11.5464827"/>
+    <trkpt lat="45.5258705" lon="11.5463462"/>
+    <trkpt lat="45.5253935" lon="11.5460783"/>
+    <trkpt lat="45.5248579" lon="11.5457681"/>
+    <trkpt lat="45.524103" lon="11.5453198"/>
+    <trkpt lat="45.5235836" lon="11.5450272"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Viale X Giugno</name><trkseg>
+    <trkpt lat="45.5412852" lon="11.5470031"/>
+    <trkpt lat="45.5411685" lon="11.5472478"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Viale X Giugno</name><trkseg>
+    <trkpt lat="45.5413089" lon="11.5469417"/>
+    <trkpt lat="45.5412852" lon="11.5470031"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Viale X Giugno</name><trkseg>
+    <trkpt lat="45.5413539" lon="11.5468337"/>
+    <trkpt lat="45.5413089" lon="11.5469417"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Viale X Giugno</name><trkseg>
+    <trkpt lat="45.5413539" lon="11.5468337"/>
+    <trkpt lat="45.5413994" lon="11.5467643"/>
+    <trkpt lat="45.5414755" lon="11.5465851"/>
+    <trkpt lat="45.5415299" lon="11.5464672"/>
+    <trkpt lat="45.5415638" lon="11.5463814"/>
+    <trkpt lat="45.5415835" lon="11.5462821"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Viale X Giugno</name><trkseg>
+    <trkpt lat="45.5411685" lon="11.5472478"/>
+    <trkpt lat="45.5411193" lon="11.5473827"/>
+    <trkpt lat="45.5410634" lon="11.5475358"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Viale X Giugno</name><trkseg>
+    <trkpt lat="45.5281761" lon="11.5456714"/>
+    <trkpt lat="45.5278473" lon="11.5458916"/>
+    <trkpt lat="45.5275126" lon="11.5461119"/>
+    <trkpt lat="45.5272226" lon="11.5463129"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Viale X Giugno</name><trkseg>
+    <trkpt lat="45.5375044" lon="11.5488179"/>
+    <trkpt lat="45.5374515" lon="11.5487447"/>
+    <trkpt lat="45.5360629" lon="11.5468778"/>
+    <trkpt lat="45.535975" lon="11.5467613"/>
+    <trkpt lat="45.5353137" lon="11.5458834"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Viale X Giugno</name><trkseg>
+    <trkpt lat="45.5202597" lon="11.5470381"/>
+    <trkpt lat="45.5197688" lon="11.5468135"/>
+    <trkpt lat="45.518747" lon="11.5463162"/>
+    <trkpt lat="45.518623" lon="11.5462672"/>
+    <trkpt lat="45.518248" lon="11.5461172"/>
+    <trkpt lat="45.518118" lon="11.5460672"/>
+    <trkpt lat="45.517655" lon="11.5458815"/>
+    <trkpt lat="45.5165405" lon="11.5454344"/>
+    <trkpt lat="45.5156622" lon="11.5451445"/>
+    <trkpt lat="45.5154221" lon="11.5450598"/>
+    <trkpt lat="45.5152658" lon="11.5449679"/>
+    <trkpt lat="45.5151375" lon="11.5448725"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Viale X Giugno</name><trkseg>
+    <trkpt lat="45.5411643" lon="11.5478646"/>
+    <trkpt lat="45.541186" lon="11.5477434"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Viale X Giugno</name><trkseg>
+    <trkpt lat="45.5376096" lon="11.5488028"/>
+    <trkpt lat="45.5375623" lon="11.5488255"/>
+    <trkpt lat="45.5375044" lon="11.5488179"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Viale X Giugno</name><trkseg>
+    <trkpt lat="45.530576" lon="11.5459504"/>
+    <trkpt lat="45.5305245" lon="11.5459917"/>
+    <trkpt lat="45.5301871" lon="11.546111"/>
+    <trkpt lat="45.529729" lon="11.546141"/>
+    <trkpt lat="45.5295303" lon="11.546103"/>
+    <trkpt lat="45.5293574" lon="11.5460386"/>
+    <trkpt lat="45.5291542" lon="11.5458461"/>
+    <trkpt lat="45.5289938" lon="11.545626"/>
+    <trkpt lat="45.52881" lon="11.545526"/>
+    <trkpt lat="45.5285957" lon="11.545501"/>
+    <trkpt lat="45.5283426" lon="11.5455708"/>
+    <trkpt lat="45.5281761" lon="11.5456714"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Viale X Giugno</name><trkseg>
+    <trkpt lat="45.5352805" lon="11.5452614"/>
+    <trkpt lat="45.5352371" lon="11.5451906"/>
+    <trkpt lat="45.5352165" lon="11.5451721"/>
+    <trkpt lat="45.5351602" lon="11.5451179"/>
+    <trkpt lat="45.5351069" lon="11.5450819"/>
+  </trkseg></trk>
+  <trk><name>Zona 4 - Viale X Giugno</name><trkseg>
+    <trkpt lat="45.5351069" lon="11.5450819"/>
+    <trkpt lat="45.5350434" lon="11.545039"/>
+    <trkpt lat="45.534917" lon="11.5449525"/>
+    <trkpt lat="45.5348145" lon="11.5447957"/>
+    <trkpt lat="45.5346526" lon="11.544291"/>
+  </trkseg></trk>
+</gpx>
