@@ -6,7 +6,15 @@ import time
 import requests
 import folium
 
-COLORI = {1: "red", 2: "blue", 3: "green", 4: "orange"}
+# colori spenti per non coprire i nomi delle vie sottostanti
+COLORI = {
+    1: "#b8565b",
+    2: "#3f6f96",
+    3: "#4f8a63",
+    4: "#c08a3e",
+}
+SPESSORE = 4
+OPACITA = 0.55
 
 ENDPOINTS = [
     "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
@@ -153,8 +161,8 @@ def main():
             folium.PolyLine(
                 coords,
                 color=COLORI[zona],
-                weight=5,
-                opacity=0.9,
+                weight=SPESSORE,
+                opacity=OPACITA,
                 tooltip=f"Zona {zona} - {via}",
             ).add_to(mappa)
         disegnate += 1
@@ -169,7 +177,8 @@ def main():
         c = COLORI[zona]
         leggenda_html += (
             f'<span style="display:inline-block;width:14px;height:14px;'
-            f'background:{c};border-radius:3px;margin-right:6px;"></span>'
+            f'background:{c};opacity:{OPACITA};border-radius:3px;'
+            f'margin-right:6px;"></span>'
             f'Zona {zona}<br>'
         )
     leggenda_html += "</div>"
