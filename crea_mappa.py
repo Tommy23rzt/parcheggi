@@ -2,6 +2,7 @@
 import csv
 import json
 import math
+import zipfile
 import time
 
 import requests
@@ -492,6 +493,12 @@ def esporta_kml_gpx(tratti):
                 '<name>Zone di sosta Vicenza</name>'
                 + stili + "".join(placemark) + '</Document></kml>\n')
 
+    # KMZ = KML compresso. Google My Maps accetta entrambi, ma il KML
+    # arriva dal browser come testo e il telefono lo apre a schermo
+    # invece di scaricarlo, mentre il KMZ viene sempre scaricato.
+    with zipfile.ZipFile("zone_sosta.kmz", "w", zipfile.ZIP_DEFLATED) as z:
+        z.write("zone_sosta.kml", "doc.kml")
+
     with open("zone_sosta.gpx", "w", encoding="utf-8") as f:
         f.write('<?xml version="1.0" encoding="UTF-8"?>\n'
                 '<gpx version="1.1" creator="crea_mappa.py" '
@@ -504,7 +511,8 @@ def esporta_kml_gpx(tratti):
             f.write('  </trkseg></trk>\n')
         f.write('</gpx>\n')
 
-    print(f"Esportati {len(tratti)} tratti in zone_sosta.kml e zone_sosta.gpx")
+    print(f"Esportati {len(tratti)} tratti in zone_sosta.kml, "
+          f"zone_sosta.kmz e zone_sosta.gpx")
 
 
 if __name__ == "__main__":
