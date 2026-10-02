@@ -1,2 +1,8 @@
 .venv/
 out.txt
+
+# cache geometrie scaricata da Overpass (2.8 MB, si rigenera da sola)
+vicenza_strade.json
+
+# output intermedio dello script: la copia pubblicata e' index.html
+mappa.html
