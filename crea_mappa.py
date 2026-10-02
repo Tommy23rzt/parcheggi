@@ -466,25 +466,42 @@ def esporta_kml_gpx(tratti):
         r, g, b = (hexcolore[i:i + 2] for i in (1, 3, 5))
         return f"ff{b}{g}{r}"
 
+    # visibility 0 sull'icona: senza questo ogni LineString fa comparire
+    # un pin predefinito, e con oltre 250 segmenti i pin coprono la mappa
+    # nell'app Google Maps.
     stili = "".join(
-        f'<Style id="zona{z}"><LineStyle>'
+        f'<Style id="zona{z}">'
+        f'<IconStyle><visibility>0</visibility></IconStyle>'
+        f'<LineStyle>'
         f'<color>{kml_colore(c)}</color><width>5</width>'
         f'</LineStyle></Style>'
         for z, c in sorted(COLORI.items())
     )
 
-    placemark = []
+    # Un Placemark per via: OSM spezza la stessa strada in più tratti, ma
+    # per l'utente "Via X" è una sola cosa. Le spezzature stanno dentro un
+    # MultiGeometry, così la mappa resta fedele senza frammentare l'elenco.
+    per_via = {}
     for zona, via, coords, n_posti in tratti:
-        punti = " ".join(f"{lon},{lat},0" for lat, lon in coords)
+        per_via.setdefault((zona, via, n_posti), []).append(coords)
+
+    placemark = []
+    for (zona, via, n_posti), spezzature in per_via.items():
+        linee = "".join(
+            '<LineString><tessellate>1</tessellate><coordinates>'
+            + " ".join(f"{lon},{lat},0" for lat, lon in coords)
+            + '</coordinates></LineString>'
+            for coords in spezzature
+        )
         desc = f"Zona {zona}"
         if n_posti != "":
             desc += f" - {n_posti} posti"
+        geometria = linee if len(spezzature) == 1 else f"<MultiGeometry>{linee}</MultiGeometry>"
         placemark.append(
             f'<Placemark><name>{escape(via)}</name>'
             f'<description>{escape(desc)}</description>'
             f'<styleUrl>#zona{zona}</styleUrl>'
-            f'<LineString><tessellate>1</tessellate>'
-            f'<coordinates>{punti}</coordinates></LineString></Placemark>'
+            f'{geometria}</Placemark>'
         )
 
     with open("zone_sosta.kml", "w", encoding="utf-8") as f:
@@ -511,8 +528,8 @@ def esporta_kml_gpx(tratti):
             f.write('  </trkseg></trk>\n')
         f.write('</gpx>\n')
 
-    print(f"Esportati {len(tratti)} tratti in zone_sosta.kml, "
-          f"zone_sosta.kmz e zone_sosta.gpx")
+    print(f"Esportate {len(per_via)} vie in {len(tratti)} tratti: "
+          f"zone_sosta.kml, zone_sosta.kmz e zone_sosta.gpx")
 
 
 if __name__ == "__main__":
