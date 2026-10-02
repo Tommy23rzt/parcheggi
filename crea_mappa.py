@@ -478,30 +478,22 @@ def esporta_kml_gpx(tratti):
         for z, c in sorted(COLORI.items())
     )
 
-    # Un Placemark per via: OSM spezza la stessa strada in più tratti, ma
-    # per l'utente "Via X" è una sola cosa. Le spezzature stanno dentro un
-    # MultiGeometry, così la mappa resta fedele senza frammentare l'elenco.
-    per_via = {}
-    for zona, via, coords, n_posti in tratti:
-        per_via.setdefault((zona, via, n_posti), []).append(coords)
-
+    # Un Placemark per segmento, come nella versione già verificata:
+    # la guida Google elenca i MultiGeometries fra i dati che un KML può
+    # perdere in import, e se My Maps li ignora le spezzature sparirebbero
+    # senza avviso.
     placemark = []
-    for (zona, via, n_posti), spezzature in per_via.items():
-        linee = "".join(
-            '<LineString><tessellate>1</tessellate><coordinates>'
-            + " ".join(f"{lon},{lat},0" for lat, lon in coords)
-            + '</coordinates></LineString>'
-            for coords in spezzature
-        )
+    for zona, via, coords, n_posti in tratti:
+        punti = " ".join(f"{lon},{lat},0" for lat, lon in coords)
         desc = f"Zona {zona}"
         if n_posti != "":
             desc += f" - {n_posti} posti"
-        geometria = linee if len(spezzature) == 1 else f"<MultiGeometry>{linee}</MultiGeometry>"
         placemark.append(
             f'<Placemark><name>{escape(via)}</name>'
             f'<description>{escape(desc)}</description>'
             f'<styleUrl>#zona{zona}</styleUrl>'
-            f'{geometria}</Placemark>'
+            f'<LineString><tessellate>1</tessellate>'
+            f'<coordinates>{punti}</coordinates></LineString></Placemark>'
         )
 
     with open("zone_sosta.kml", "w", encoding="utf-8") as f:
@@ -528,8 +520,8 @@ def esporta_kml_gpx(tratti):
             f.write('  </trkseg></trk>\n')
         f.write('</gpx>\n')
 
-    print(f"Esportate {len(per_via)} vie in {len(tratti)} tratti: "
-          f"zone_sosta.kml, zone_sosta.kmz e zone_sosta.gpx")
+    print(f"Esportati {len(tratti)} tratti in zone_sosta.kml, "
+          f"zone_sosta.kmz e zone_sosta.gpx")
 
 
 if __name__ == "__main__":
