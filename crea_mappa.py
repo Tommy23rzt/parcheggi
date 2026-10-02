@@ -93,6 +93,33 @@ def nome_osm(via):
     return SINONIMI.get(via, via)
 
 
+def scarta_omonomi(tratti, distanza_max=800.0):
+    """Togli i tratti che sono omonimi lontani dal resto della via.
+
+    OSM ha piu' strade con lo stesso nome in punti diversi della
+    provincia. Una via intera e' un unico percorso: se un pezzo sta a
+    chilometri di distanza dagli altri pezzi, non e' la stessa strada
+    che chiede la tabella. Per esempio "Via Quattro Novembre" (la
+    Zona 3 "Via IV Novembre") ha 6 tratti nel centro e uno a 5,9 km,
+    che e' un'altra via omonima.
+    """
+    if len(tratti) < 2:
+        return tratti, []
+    tenuti = []
+    scartati = []
+    for i, t in enumerate(tratti):
+        vicino = False
+        for j, u in enumerate(tratti):
+            if i == j:
+                continue
+            if any(distanza_punto_seg(p, a, b) <= distanza_max
+                   for p in t for a, b in zip(u, u[1:])):
+                vicino = True
+                break
+        (tenuti if vicino else scartati).append(t)
+    return (tenuti, scartati) if tenuti else (tratti, [])
+
+
 def scarica_sosta_vicenza():
     """Scarica le aree di sosta mappate in OSM (servono a ritagliare le vie)."""
     query = (
@@ -308,6 +335,7 @@ def main():
     non_trovate = []
     ritagliate = []
     scartate = []
+    scartate_omonimi = []
     esporta = []
     for zona, via in vie:
         geoms = per_nome.get(nome_osm(via), [])
@@ -316,14 +344,18 @@ def main():
             print(f"[{zona}] MISS  {via}")
             continue
         vie_disegnate = [g for g in geoms if len(g) >= 2]
+        vie_disegnate = [[(p["lat"], p["lon"]) for p in g if p]
+                         for g in vie_disegnate]
+        vie_disegnate, omonimi = scarta_omonomi(vie_disegnate)
+        if omonimi:
+            scartate_omonimi.append((zona, via, len(omonimi)))
 
         accettato = False
         coperta = 0.0
         tratti_osm = []
         if soste:
             # lunghezza che OSM dice effettivamente occupata da sosta
-            for g in vie_disegnate:
-                coords = [(p["lat"], p["lon"]) for p in g if p]
+            for coords in vie_disegnate:
                 tratti, frazione = ritaglia(coords, soste, RAGGIO_SOSTA)
                 tratti_osm.append((coords, tratti, frazione))
             for coords, tratti, frazione in tratti_osm:
@@ -340,8 +372,8 @@ def main():
             if coperta > 0 and BANDA[0] * attesa <= coperta <= BANDA[1] * attesa:
                 accettato = True
         else:
-            for g in vie_disegnate:
-                tratti_osm.append(([(p["lat"], p["lon"]) for p in g if p], None, 0.0))
+            for coords in vie_disegnate:
+                tratti_osm.append((coords, None, 0.0))
 
         nota = ""
         if accettato:
@@ -409,6 +441,10 @@ def main():
     if scartate:
         print(f"\nOSM mappa la sosta ma i posti non confermano il tratto, "
               f"via intera ({len(scartate)}): " + ", ".join(scartate))
+    if scartate_omonimi:
+        print("\nScartati tratti omonimi troppo lontani dalla via:")
+        for zona, via, n in scartate_omonimi:
+            print(f"  [zona {zona}] {via}: {n} tratto/i scartato/i")
     if non_trovate:
         print("\nVie NON trovate in OSM (da sistemare):")
         for zona, via in non_trovate:
