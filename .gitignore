@@ -1,5 +1,6 @@
 .venv/
 out.txt
+__pycache__/
 
 # cache geometrie scaricata da Overpass (2.8 MB, si rigenera da sola)
 vicenza_strade.json
