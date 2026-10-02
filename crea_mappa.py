@@ -16,7 +16,7 @@ COLORI = {
 }
 SPESSORE = 4
 OPACITA = 0.55
-ZOOM = 16
+ZOOM = 18
 
 # Ritaglio sperimentale: accorcia la via sul tratto dove OpenStreetMap
 # mappa la sosta. Disattivato perche' sul campo rende peggio la mappa:
